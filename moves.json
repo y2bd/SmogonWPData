@@ -1,0 +1,3356 @@
+[
+   {
+      "Description" : "Boosts a random stat by 2 stages.",
+      "Name" : "Acupressure",
+      "PageLocation" : "/bw/moves/acupressure",
+      "Type" : 0
+   },
+   {
+      "Description" : "The target will attack immediately after the user in the same turn.",
+      "Name" : "After You",
+      "PageLocation" : "/bw/moves/after_you",
+      "Type" : 0
+   },
+   {
+      "Description" : "Uses a random move from the user's team.",
+      "Name" : "Assist",
+      "PageLocation" : "/bw/moves/assist",
+      "Type" : 0
+   },
+   {
+      "Description" : "Target of the opposite gender is infatuated and has a 50% chance to do nothing.",
+      "Name" : "Attract",
+      "PageLocation" : "/bw/moves/attract",
+      "Type" : 0
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "Barrage",
+      "PageLocation" : "/bw/moves/barrage",
+      "Type" : 0
+   },
+   {
+      "Description" : "User switches, but passes on all stat changes and some special conditions.",
+      "Name" : "Baton Pass",
+      "PageLocation" : "/bw/moves/baton_pass",
+      "Type" : 0
+   },
+   {
+      "Description" : "User loses 50% max HP. Maximizes Attack.",
+      "Name" : "Belly Drum",
+      "PageLocation" : "/bw/moves/belly_drum",
+      "Type" : 0
+   },
+   {
+      "Description" : "User passes its held item to the target.",
+      "Name" : "Bestow",
+      "PageLocation" : "/bw/moves/bestow",
+      "Type" : 0
+   },
+   {
+      "Description" : "Charges for 2 turns; returns double the damage received in those turns.",
+      "Name" : "Bide",
+      "PageLocation" : "/bw/moves/bide",
+      "Type" : 0
+   },
+   {
+      "Description" : "Traps and damages the target over 4-5 turns.",
+      "Name" : "Bind",
+      "PageLocation" : "/bw/moves/bind",
+      "Type" : 0
+   },
+   {
+      "Description" : "The target cannot switch out.",
+      "Name" : "Block",
+      "PageLocation" : "/bw/moves/block",
+      "Type" : 0
+   },
+   {
+      "Description" : "30% chance to paralyze the target.",
+      "Name" : "Body Slam",
+      "PageLocation" : "/bw/moves/body_slam",
+      "Type" : 0
+   },
+   {
+      "Description" : "Changes user's type based on terrain.",
+      "Name" : "Camouflage",
+      "PageLocation" : "/bw/moves/camouflage",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lowers an opposite gender target's Special Attack by 2 stages.",
+      "Name" : "Captivate",
+      "PageLocation" : "/bw/moves/captivate",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lowers target's Attack by 2 stages.",
+      "Name" : "Charm",
+      "PageLocation" : "/bw/moves/charm",
+      "Type" : 17
+   },
+   {
+      "Description" : "Ignores the target's stat changes.",
+      "Name" : "Chip Away",
+      "PageLocation" : "/bw/moves/chip_away",
+      "Type" : 0
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "Comet Punch",
+      "PageLocation" : "/bw/moves/comet_punch",
+      "Type" : 0
+   },
+   {
+      "Description" : "10% chance to lower target's Speed by 1 stage.",
+      "Name" : "Constrict",
+      "PageLocation" : "/bw/moves/constrict",
+      "Type" : 0
+   },
+   {
+      "Description" : "Changes user into a new type based on the user's moves.",
+      "Name" : "Conversion",
+      "PageLocation" : "/bw/moves/conversion",
+      "Type" : 0
+   },
+   {
+      "Description" : "Changes user into a new type that resists the last attack to hit the user.",
+      "Name" : "Conversion 2",
+      "PageLocation" : "/bw/moves/conversion_2",
+      "Type" : 0
+   },
+   {
+      "Description" : "Uses the last move used in the battle.",
+      "Name" : "Copycat",
+      "PageLocation" : "/bw/moves/copycat",
+      "Type" : 0
+   },
+   {
+      "Description" : "Steals target's item.",
+      "Name" : "Covet",
+      "PageLocation" : "/bw/moves/covet",
+      "Type" : 0
+   },
+   {
+      "Description" : "50% chance to lower target's Defense by 1 stage.",
+      "Name" : "Crush Claw",
+      "PageLocation" : "/bw/moves/crush_claw",
+      "Type" : 0
+   },
+   {
+      "Description" : "Base Power depends on the foe's remaining HP.",
+      "Name" : "Crush Grip",
+      "PageLocation" : "/bw/moves/crush_grip",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Cut",
+      "PageLocation" : "/bw/moves/cut",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts user's Defense by 1 stage.",
+      "Name" : "Defense Curl",
+      "PageLocation" : "/bw/moves/defense_curl",
+      "Type" : 0
+   },
+   {
+      "Description" : "Prevents the last move used from being used again for 4 turns.",
+      "Name" : "Disable",
+      "PageLocation" : "/bw/moves/disable",
+      "Type" : 0
+   },
+   {
+      "Description" : "20% chance to confuse opponent.",
+      "Name" : "Dizzy Punch",
+      "PageLocation" : "/bw/moves/dizzy_punch",
+      "Type" : 0
+   },
+   {
+      "Description" : "Hits 2 times in one turn.",
+      "Name" : "Double Hit",
+      "PageLocation" : "/bw/moves/double_hit",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts evasion by 1 stage.",
+      "Name" : "Double Team",
+      "PageLocation" : "/bw/moves/double_team",
+      "Type" : 0
+   },
+   {
+      "Description" : "Has 1/3 recoil.",
+      "Name" : "Double-Edge",
+      "PageLocation" : "/bw/moves/double-edge",
+      "Type" : 0
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "DoubleSlap",
+      "PageLocation" : "/bw/moves/doubleslap",
+      "Type" : 0
+   },
+   {
+      "Description" : "Power increases when used consecutively.",
+      "Name" : "Echoed Voice",
+      "PageLocation" : "/bw/moves/echoed_voice",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Egg Bomb",
+      "PageLocation" : "/bw/moves/egg_bomb",
+      "Type" : 0
+   },
+   {
+      "Description" : "Causes the target to repeat its last move for 3 turns.",
+      "Name" : "Encore",
+      "PageLocation" : "/bw/moves/encore",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lowers target's HP to match the user's HP.",
+      "Name" : "Endeavor",
+      "PageLocation" : "/bw/moves/endeavor",
+      "Type" : 0
+   },
+   {
+      "Description" : "The user always survives with at least 1 HP.",
+      "Name" : "Endure",
+      "PageLocation" : "/bw/moves/endure",
+      "Type" : 0
+   },
+   {
+      "Description" : "Changes the target's ability to that of the user.",
+      "Name" : "Entrainment",
+      "PageLocation" : "/bw/moves/entrainment",
+      "Type" : 0
+   },
+   {
+      "Description" : "Faints the user.",
+      "Name" : "Explosion",
+      "PageLocation" : "/bw/moves/explosion",
+      "Type" : 0
+   },
+   {
+      "Description" : "The user always attacks first.",
+      "Name" : "ExtremeSpeed",
+      "PageLocation" : "/bw/moves/extremespeed",
+      "Type" : 0
+   },
+   {
+      "Description" : "Has 140 power when user is burned, paralyzed, or poisoned.",
+      "Name" : "Facade",
+      "PageLocation" : "/bw/moves/facade",
+      "Type" : 0
+   },
+   {
+      "Description" : "The user always attacks first, and flinches the foe. Can only be used on the first turn out.",
+      "Name" : "Fake Out",
+      "PageLocation" : "/bw/moves/fake_out",
+      "Type" : 0
+   },
+   {
+      "Description" : "Always leaves the foe with at least 1 HP.",
+      "Name" : "False Swipe",
+      "PageLocation" : "/bw/moves/false_swipe",
+      "Type" : 0
+   },
+   {
+      "Description" : "Nullifies effect of Detect and Protect.",
+      "Name" : "Feint",
+      "PageLocation" : "/bw/moves/feint",
+      "Type" : 0
+   },
+   {
+      "Description" : "Does more damage as user's HP decreases.",
+      "Name" : "Flail",
+      "PageLocation" : "/bw/moves/flail",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lowers target's accuracy by 1 stage.",
+      "Name" : "Flash",
+      "PageLocation" : "/bw/moves/flash",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts critical hit rate by two stages.",
+      "Name" : "Focus Energy",
+      "PageLocation" : "/bw/moves/focus_energy",
+      "Type" : 0
+   },
+   {
+      "Description" : "All moves target the user.",
+      "Name" : "Follow Me",
+      "PageLocation" : "/bw/moves/follow_me",
+      "Type" : 0
+   },
+   {
+      "Description" : "Blocks evasion modifiers. Allows user's Fighting- and Normal-type moves to hit Ghosts.",
+      "Name" : "Foresight",
+      "PageLocation" : "/bw/moves/foresight",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Frustration",
+      "PageLocation" : "/bw/moves/frustration",
+      "Type" : 0
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "Fury Attack",
+      "PageLocation" : "/bw/moves/fury_attack",
+      "Type" : 0
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "Fury Swipes",
+      "PageLocation" : "/bw/moves/fury_swipes",
+      "Type" : 0
+   },
+   {
+      "Description" : "User cannot move next turn.",
+      "Name" : "Giga Impact",
+      "PageLocation" : "/bw/moves/giga_impact",
+      "Type" : 0
+   },
+   {
+      "Description" : "Paralyzes opponent.",
+      "Name" : "Glare",
+      "PageLocation" : "/bw/moves/glare",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lowers target's Attack by 1 stage.",
+      "Name" : "Growl",
+      "PageLocation" : "/bw/moves/growl",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts Attack and Special Attack one stage.",
+      "Name" : "Growth",
+      "PageLocation" : "/bw/moves/growth",
+      "Type" : 0
+   },
+   {
+      "Description" : "Will OHKO the target.",
+      "Name" : "Guillotine",
+      "PageLocation" : "/bw/moves/guillotine",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts user's Defense one stage.",
+      "Name" : "Harden",
+      "PageLocation" : "/bw/moves/harden",
+      "Type" : 0
+   },
+   {
+      "Description" : "Has 25% recoil.",
+      "Name" : "Head Charge",
+      "PageLocation" : "/bw/moves/head_charge",
+      "Type" : 0
+   },
+   {
+      "Description" : "30% chance to flinch the target.",
+      "Name" : "Headbutt",
+      "PageLocation" : "/bw/moves/headbutt",
+      "Type" : 0
+   },
+   {
+      "Description" : "Cures status ailments on the user and other party members.",
+      "Name" : "Heal Bell",
+      "PageLocation" : "/bw/moves/heal_bell",
+      "Type" : 0
+   },
+   {
+      "Description" : "Increases Base Power of ally's moves 50%.",
+      "Name" : "Helping Hand",
+      "PageLocation" : "/bw/moves/helping_hand",
+      "Type" : 0
+   },
+   {
+      "Description" : "Has 30-70 Base Power and can be any type but Normal, depending on the user's IVs.",
+      "Name" : "Hidden Power",
+      "PageLocation" : "/bw/moves/hidden_power",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Horn Attack",
+      "PageLocation" : "/bw/moves/horn_attack",
+      "Type" : 0
+   },
+   {
+      "Description" : "Will OHKO the target.",
+      "Name" : "Horn Drill",
+      "PageLocation" : "/bw/moves/horn_drill",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts user's Attack by 1 stage.",
+      "Name" : "Howl",
+      "PageLocation" : "/bw/moves/howl",
+      "Type" : 0
+   },
+   {
+      "Description" : "The user cannot attack next turn.",
+      "Name" : "Hyper Beam",
+      "PageLocation" : "/bw/moves/hyper_beam",
+      "Type" : 0
+   },
+   {
+      "Description" : "10% chance to flinch the target.",
+      "Name" : "Hyper Fang",
+      "PageLocation" : "/bw/moves/hyper_fang",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Hyper Voice",
+      "PageLocation" : "/bw/moves/hyper_voice",
+      "Type" : 0
+   },
+   {
+      "Description" : "Type will change depending on the type of Plate.",
+      "Name" : "Judgment",
+      "PageLocation" : "/bw/moves/judgment",
+      "Type" : 0
+   },
+   {
+      "Description" : "Can only be used if all other moves have been used once.",
+      "Name" : "Last Resort",
+      "PageLocation" : "/bw/moves/last_resort",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lowers target's Defense by 1 stage.",
+      "Name" : "Leer",
+      "PageLocation" : "/bw/moves/leer",
+      "Type" : 0
+   },
+   {
+      "Description" : "The next move will not miss.",
+      "Name" : "Lock-On",
+      "PageLocation" : "/bw/moves/lock-on",
+      "Type" : 0
+   },
+   {
+      "Description" : "Puts the target to sleep.",
+      "Name" : "Lovely Kiss",
+      "PageLocation" : "/bw/moves/lovely_kiss",
+      "Type" : 0
+   },
+   {
+      "Description" : "Prevents critical hits.",
+      "Name" : "Lucky Chant",
+      "PageLocation" : "/bw/moves/lucky_chant",
+      "Type" : 0
+   },
+   {
+      "Description" : "Uses the foe's attack at 1.5x power. User must move before the opponent for it to work.",
+      "Name" : "Me First",
+      "PageLocation" : "/bw/moves/me_first",
+      "Type" : 0
+   },
+   {
+      "Description" : "The target cannot switch out.",
+      "Name" : "Mean Look",
+      "PageLocation" : "/bw/moves/mean_look",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Mega Kick",
+      "PageLocation" : "/bw/moves/mega_kick",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Mega Punch",
+      "PageLocation" : "/bw/moves/mega_punch",
+      "Type" : 0
+   },
+   {
+      "Description" : "Picks a random move.",
+      "Name" : "Metronome",
+      "PageLocation" : "/bw/moves/metronome",
+      "Type" : 0
+   },
+   {
+      "Description" : "Heals 50% of the user's max HP.",
+      "Name" : "Milk Drink",
+      "PageLocation" : "/bw/moves/milk_drink",
+      "Type" : 0
+   },
+   {
+      "Description" : "Copies the last move used by the target.",
+      "Name" : "Mimic",
+      "PageLocation" : "/bw/moves/mimic",
+      "Type" : 0
+   },
+   {
+      "Description" : "The next move used will always hit.",
+      "Name" : "Mind Reader",
+      "PageLocation" : "/bw/moves/mind_reader",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts evasion by 2 stages.",
+      "Name" : "Minimize",
+      "PageLocation" : "/bw/moves/minimize",
+      "Type" : 0
+   },
+   {
+      "Description" : "Heals user variably depending on the weather.",
+      "Name" : "Moonlight",
+      "PageLocation" : "/bw/moves/moonlight",
+      "Type" : 17
+   },
+   {
+      "Description" : "Heals user variably depending on the weather.",
+      "Name" : "Morning Sun",
+      "PageLocation" : "/bw/moves/morning_sun",
+      "Type" : 0
+   },
+   {
+      "Description" : "Power and type depends on the user's held Berry.",
+      "Name" : "Natural Gift",
+      "PageLocation" : "/bw/moves/natural_gift",
+      "Type" : 0
+   },
+   {
+      "Description" : "Attack changes based on terrain. Becomes Earthquake in Wi-Fi battles.",
+      "Name" : "Nature Power",
+      "PageLocation" : "/bw/moves/nature_power",
+      "Type" : 0
+   },
+   {
+      "Description" : "Blocks evasion modifiers. Allows user's Fighting- and Normal-type moves to hit Ghosts.",
+      "Name" : "Odor Sleuth",
+      "PageLocation" : "/bw/moves/odor_sleuth",
+      "Type" : 0
+   },
+   {
+      "Description" : "Shares HP of user and target equally.",
+      "Name" : "Pain Split",
+      "PageLocation" : "/bw/moves/pain_split",
+      "Type" : 0
+   },
+   {
+      "Description" : "Scatters coins.",
+      "Name" : "Pay Day",
+      "PageLocation" : "/bw/moves/pay_day",
+      "Type" : 0
+   },
+   {
+      "Description" : "All active Pokemon that hear the song faint after 3 turns.",
+      "Name" : "Perish Song",
+      "PageLocation" : "/bw/moves/perish_song",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Pound",
+      "PageLocation" : "/bw/moves/pound",
+      "Type" : 0
+   },
+   {
+      "Description" : "Does damage or heals 80 HP.",
+      "Name" : "Present",
+      "PageLocation" : "/bw/moves/present",
+      "Type" : 0
+   },
+   {
+      "Description" : "Protects the user from attacks.",
+      "Name" : "Protect",
+      "PageLocation" : "/bw/moves/protect",
+      "Type" : 0
+   },
+   {
+      "Description" : "Copies the target's stat changes.",
+      "Name" : "Psych Up",
+      "PageLocation" : "/bw/moves/psych_up",
+      "Type" : 0
+   },
+   {
+      "Description" : "The user always attacks first.",
+      "Name" : "Quick Attack",
+      "PageLocation" : "/bw/moves/quick_attack",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts user's Attack by 1 stage if hit.",
+      "Name" : "Rage",
+      "PageLocation" : "/bw/moves/rage",
+      "Type" : 0
+   },
+   {
+      "Description" : "Removes Leech Seed, Spikes, Stealth Rock, and Toxic Spikes on user's side of the field.",
+      "Name" : "Rapid Spin",
+      "PageLocation" : "/bw/moves/rapid_spin",
+      "Type" : 0
+   },
+   {
+      "Description" : "Charges up the first turn; attacks on the second turn. Has a higher critical hit ratio.",
+      "Name" : "Razor Wind",
+      "PageLocation" : "/bw/moves/razor_wind",
+      "Type" : 0
+   },
+   {
+      "Description" : "Heals 50% of user's max HP.",
+      "Name" : "Recover",
+      "PageLocation" : "/bw/moves/recover",
+      "Type" : 0
+   },
+   {
+      "Description" : "Restores a used item.",
+      "Name" : "Recycle",
+      "PageLocation" : "/bw/moves/recycle",
+      "Type" : 0
+   },
+   {
+      "Description" : "User becomes the same type as the target.",
+      "Name" : "Reflect Type",
+      "PageLocation" : "/bw/moves/reflect_type",
+      "Type" : 0
+   },
+   {
+      "Description" : "Removes status from the user.",
+      "Name" : "Refresh",
+      "PageLocation" : "/bw/moves/refresh",
+      "Type" : 0
+   },
+   {
+      "Description" : "10% chance to put target to sleep. If used by Meloetta, causes it to change from Aria Forme to Pirouette Forme.",
+      "Name" : "Relic Song",
+      "PageLocation" : "/bw/moves/relic_song",
+      "Type" : 0
+   },
+   {
+      "Description" : "Power doubles if the user's teammate fainted the previous turn.",
+      "Name" : "Retaliate",
+      "PageLocation" : "/bw/moves/retaliate",
+      "Type" : 0
+   },
+   {
+      "Description" : "Does more damage the happier the user is.",
+      "Name" : "Return",
+      "PageLocation" : "/bw/moves/return",
+      "Type" : 0
+   },
+   {
+      "Description" : "Forces the target to switch to a random Pokemon.",
+      "Name" : "Roar",
+      "PageLocation" : "/bw/moves/roar",
+      "Type" : 0
+   },
+   {
+      "Description" : "20% chance to confuse the target.",
+      "Name" : "Rock Climb",
+      "PageLocation" : "/bw/moves/rock_climb",
+      "Type" : 0
+   },
+   {
+      "Description" : "Power doubles if a teammate uses Round in the same turn.",
+      "Name" : "Round",
+      "PageLocation" : "/bw/moves/round",
+      "Type" : 0
+   },
+   {
+      "Description" : "Protects the user's team from status conditions for 5 turns.",
+      "Name" : "Safeguard",
+      "PageLocation" : "/bw/moves/safeguard",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lowers target's Speed by 2 stages.",
+      "Name" : "Scary Face",
+      "PageLocation" : "/bw/moves/scary_face",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Scratch",
+      "PageLocation" : "/bw/moves/scratch",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lowers target's Defense by 2 stages.",
+      "Name" : "Screech",
+      "PageLocation" : "/bw/moves/screech",
+      "Type" : 0
+   },
+   {
+      "Description" : "Effects vary with terrain. 30% chance to lower target's accuracy by 1 stage in Wi-Fi battles.",
+      "Name" : "Secret Power",
+      "PageLocation" : "/bw/moves/secret_power",
+      "Type" : 0
+   },
+   {
+      "Description" : "Faints the user.",
+      "Name" : "Selfdestruct",
+      "PageLocation" : "/bw/moves/selfdestruct",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts user's Attack by 1 stage.",
+      "Name" : "Sharpen",
+      "PageLocation" : "/bw/moves/sharpen",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts user's Attack, Special Attack, and Speed by 2 stages and lowers user's Defense and Special Defense by 1 stage.",
+      "Name" : "Shell Smash",
+      "PageLocation" : "/bw/moves/shell_smash",
+      "Type" : 0
+   },
+   {
+      "Description" : "Changes the target's ability to Simple.",
+      "Name" : "Simple Beam",
+      "PageLocation" : "/bw/moves/simple_beam",
+      "Type" : 0
+   },
+   {
+      "Description" : "Puts the target to sleep.",
+      "Name" : "Sing",
+      "PageLocation" : "/bw/moves/sing",
+      "Type" : 0
+   },
+   {
+      "Description" : "Permanently copies the last move used by the target.",
+      "Name" : "Sketch",
+      "PageLocation" : "/bw/moves/sketch",
+      "Type" : 0
+   },
+   {
+      "Description" : "Charges up turn one; attacks turn two. Boosts user's Defense by 1 stage.",
+      "Name" : "Skull Bash",
+      "PageLocation" : "/bw/moves/skull_bash",
+      "Type" : 0
+   },
+   {
+      "Description" : "Heals 50% of the user's max HP.",
+      "Name" : "Slack Off",
+      "PageLocation" : "/bw/moves/slack_off",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Slam",
+      "PageLocation" : "/bw/moves/slam",
+      "Type" : 0
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Slash",
+      "PageLocation" : "/bw/moves/slash",
+      "Type" : 0
+   },
+   {
+      "Description" : "Picks one of the user's moves at random. Can only be used while sleeping.",
+      "Name" : "Sleep Talk",
+      "PageLocation" : "/bw/moves/sleep_talk",
+      "Type" : 0
+   },
+   {
+      "Description" : "Has 120 Base Power on a paralyzed target, but cures it of paralysis.",
+      "Name" : "SmellingSalt",
+      "PageLocation" : "/bw/moves/smellingsalt",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lowers target's accuracy by 1 stage.",
+      "Name" : "SmokeScreen",
+      "PageLocation" : "/bw/moves/smokescreen",
+      "Type" : 0
+   },
+   {
+      "Description" : "Can only be used while user is sleeping. 30% chance to flinch the target.",
+      "Name" : "Snore",
+      "PageLocation" : "/bw/moves/snore",
+      "Type" : 0
+   },
+   {
+      "Description" : "Heals 50% of user's max HP.",
+      "Name" : "Softboiled",
+      "PageLocation" : "/bw/moves/softboiled",
+      "Type" : 0
+   },
+   {
+      "Description" : "Does 20 HP damage. Ghosts are immune.",
+      "Name" : "SonicBoom",
+      "PageLocation" : "/bw/moves/sonicboom",
+      "Type" : 0
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "Spike Cannon",
+      "PageLocation" : "/bw/moves/spike_cannon",
+      "Type" : 0
+   },
+   {
+      "Description" : "Varies in power depending on the number of uses of Stockpile.",
+      "Name" : "Spit Up",
+      "PageLocation" : "/bw/moves/spit_up",
+      "Type" : 0
+   },
+   {
+      "Description" : "No effect whatsoever.",
+      "Name" : "Splash",
+      "PageLocation" : "/bw/moves/splash",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts the user's Defense and Special Defense by 1 stage. Sets the user up to use Spit Up or Swallow.",
+      "Name" : "Stockpile",
+      "PageLocation" : "/bw/moves/stockpile",
+      "Type" : 0
+   },
+   {
+      "Description" : "30% chance to flinch the target.",
+      "Name" : "Stomp",
+      "PageLocation" : "/bw/moves/stomp",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Strength",
+      "PageLocation" : "/bw/moves/strength",
+      "Type" : 0
+   },
+   {
+      "Description" : "User loses 25% of its max HP as recoil.",
+      "Name" : "Struggle",
+      "PageLocation" : "/bw/moves/struggle",
+      "Type" : 0
+   },
+   {
+      "Description" : "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+      "Name" : "Substitute",
+      "PageLocation" : "/bw/moves/substitute",
+      "Type" : 0
+   },
+   {
+      "Description" : "Does damage equal to half the target's current HP.",
+      "Name" : "Super Fang",
+      "PageLocation" : "/bw/moves/super_fang",
+      "Type" : 0
+   },
+   {
+      "Description" : "Confuses the target.",
+      "Name" : "Supersonic",
+      "PageLocation" : "/bw/moves/supersonic",
+      "Type" : 0
+   },
+   {
+      "Description" : "Confuses the target and boosts the target's Attack by 2 stages.",
+      "Name" : "Swagger",
+      "PageLocation" : "/bw/moves/swagger",
+      "Type" : 0
+   },
+   {
+      "Description" : "Healing varies based on the number of uses of Stockpile.",
+      "Name" : "Swallow",
+      "PageLocation" : "/bw/moves/swallow",
+      "Type" : 0
+   },
+   {
+      "Description" : "Confuses the target.",
+      "Name" : "Sweet Kiss",
+      "PageLocation" : "/bw/moves/sweet_kiss",
+      "Type" : 17
+   },
+   {
+      "Description" : "Lowers the target's evasiveness by 1 stage.",
+      "Name" : "Sweet Scent",
+      "PageLocation" : "/bw/moves/sweet_scent",
+      "Type" : 0
+   },
+   {
+      "Description" : "Ignores evasion modifiers.",
+      "Name" : "Swift",
+      "PageLocation" : "/bw/moves/swift",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts user's Attack by 2 stages.",
+      "Name" : "Swords Dance",
+      "PageLocation" : "/bw/moves/swords_dance",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Tackle",
+      "PageLocation" : "/bw/moves/tackle",
+      "Type" : 0
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "Tail Slap",
+      "PageLocation" : "/bw/moves/tail_slap",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lowers target's Defense by 1 stage.",
+      "Name" : "Tail Whip",
+      "PageLocation" : "/bw/moves/tail_whip",
+      "Type" : 0
+   },
+   {
+      "Description" : "Has 1/4 recoil.",
+      "Name" : "Take Down",
+      "PageLocation" : "/bw/moves/take_down",
+      "Type" : 0
+   },
+   {
+      "Description" : "Type will change depending on the type of Drive.",
+      "Name" : "Techno Blast",
+      "PageLocation" : "/bw/moves/techno_blast",
+      "Type" : 0
+   },
+   {
+      "Description" : "Confuses the target.",
+      "Name" : "Teeter Dance",
+      "PageLocation" : "/bw/moves/teeter_dance",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lasts 2-3 turns and will confuse the user afterward.",
+      "Name" : "Thrash",
+      "PageLocation" : "/bw/moves/thrash",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lowers target's Attack and Defense by 1 stage.",
+      "Name" : "Tickle",
+      "PageLocation" : "/bw/moves/tickle",
+      "Type" : 0
+   },
+   {
+      "Description" : "Copies traits of the target.",
+      "Name" : "Transform",
+      "PageLocation" : "/bw/moves/transform",
+      "Type" : 0
+   },
+   {
+      "Description" : "20% chance to paralyze, burn, or freeze the target.",
+      "Name" : "Tri Attack",
+      "PageLocation" : "/bw/moves/tri_attack",
+      "Type" : 0
+   },
+   {
+      "Description" : "Power increases as PP decreases.",
+      "Name" : "Trump Card",
+      "PageLocation" : "/bw/moves/trump_card",
+      "Type" : 0
+   },
+   {
+      "Description" : "Lasts 3 turns during which no Pokemon can be asleep.",
+      "Name" : "Uproar",
+      "PageLocation" : "/bw/moves/uproar",
+      "Type" : 0
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "ViceGrip",
+      "PageLocation" : "/bw/moves/vicegrip",
+      "Type" : 0
+   },
+   {
+      "Description" : "Changes type depending on the weather.",
+      "Name" : "Weather Ball",
+      "PageLocation" : "/bw/moves/weather_ball",
+      "Type" : 0
+   },
+   {
+      "Description" : "Forces the target to switch to a random Pokemon.",
+      "Name" : "Whirlwind",
+      "PageLocation" : "/bw/moves/whirlwind",
+      "Type" : 0
+   },
+   {
+      "Description" : "Heals 50% the user's max HP the next turn.",
+      "Name" : "Wish",
+      "PageLocation" : "/bw/moves/wish",
+      "Type" : 0
+   },
+   {
+      "Description" : "Boosts user's Attack and Special Attack by 1 stage.",
+      "Name" : "Work Up",
+      "PageLocation" : "/bw/moves/work_up",
+      "Type" : 0
+   },
+   {
+      "Description" : "Traps and damages the target for 4-5 turns.",
+      "Name" : "Wrap",
+      "PageLocation" : "/bw/moves/wrap",
+      "Type" : 0
+   },
+   {
+      "Description" : "Base Power depends on the target's remaining HP.",
+      "Name" : "Wring Out",
+      "PageLocation" : "/bw/moves/wring_out",
+      "Type" : 0
+   },
+   {
+      "Description" : "Puts the target to sleep after 2 turns.",
+      "Name" : "Yawn",
+      "PageLocation" : "/bw/moves/yawn",
+      "Type" : 0
+   },
+   {
+      "Description" : "User cannot move next turn.",
+      "Name" : "Blast Burn",
+      "PageLocation" : "/bw/moves/blast_burn",
+      "Type" : 1
+   },
+   {
+      "Description" : "Has a high critical hit rate. 10% chance to burn the target.",
+      "Name" : "Blaze Kick",
+      "PageLocation" : "/bw/moves/blaze_kick",
+      "Type" : 1
+   },
+   {
+      "Description" : "20% chance to burn the target.",
+      "Name" : "Blue Flare",
+      "PageLocation" : "/bw/moves/blue_flare",
+      "Type" : 1
+   },
+   {
+      "Description" : "10% chance to burn the target.",
+      "Name" : "Ember",
+      "PageLocation" : "/bw/moves/ember",
+      "Type" : 1
+   },
+   {
+      "Description" : "Does less damage as the user's HP decreases.",
+      "Name" : "Eruption",
+      "PageLocation" : "/bw/moves/eruption",
+      "Type" : 1
+   },
+   {
+      "Description" : "50% chance to boost user's Special Attack by 1 stage.",
+      "Name" : "Fiery Dance",
+      "PageLocation" : "/bw/moves/fiery_dance",
+      "Type" : 1
+   },
+   {
+      "Description" : "10% chance to burn opponent.",
+      "Name" : "Fire Blast",
+      "PageLocation" : "/bw/moves/fire_blast",
+      "Type" : 1
+   },
+   {
+      "Description" : "10% chance to flinch opponent. 10% chance to burn opponent.",
+      "Name" : "Fire Fang",
+      "PageLocation" : "/bw/moves/fire_fang",
+      "Type" : 1
+   },
+   {
+      "Description" : "Use with Grass Pledge and Water Pledge for additional effect.",
+      "Name" : "Fire Pledge",
+      "PageLocation" : "/bw/moves/fire_pledge",
+      "Type" : 1
+   },
+   {
+      "Description" : "10% chance to burn opponent.",
+      "Name" : "Fire Punch",
+      "PageLocation" : "/bw/moves/fire_punch",
+      "Type" : 1
+   },
+   {
+      "Description" : "Traps and damages the target for 4-5 turns.",
+      "Name" : "Fire Spin",
+      "PageLocation" : "/bw/moves/fire_spin",
+      "Type" : 1
+   },
+   {
+      "Description" : "Damages Pokemon next to the target as well.",
+      "Name" : "Flame Burst",
+      "PageLocation" : "/bw/moves/flame_burst",
+      "Type" : 1
+   },
+   {
+      "Description" : "Boosts user's Speed by 1 stage.",
+      "Name" : "Flame Charge",
+      "PageLocation" : "/bw/moves/flame_charge",
+      "Type" : 1
+   },
+   {
+      "Description" : "10% chance to burn opponent. Thaws the user.",
+      "Name" : "Flame Wheel",
+      "PageLocation" : "/bw/moves/flame_wheel",
+      "Type" : 1
+   },
+   {
+      "Description" : "10% chance to burn opponent.",
+      "Name" : "Flamethrower",
+      "PageLocation" : "/bw/moves/flamethrower",
+      "Type" : 1
+   },
+   {
+      "Description" : "Has 1/3 recoil. 10% chance to burn the target. Thaws user.",
+      "Name" : "Flare Blitz",
+      "PageLocation" : "/bw/moves/flare_blitz",
+      "Type" : 1
+   },
+   {
+      "Description" : "Power doubles if used after Fusion Bolt.",
+      "Name" : "Fusion Flare",
+      "PageLocation" : "/bw/moves/fusion_flare",
+      "Type" : 1
+   },
+   {
+      "Description" : "Deals damage based on both the user's and the target's weight.",
+      "Name" : "Heat Crash",
+      "PageLocation" : "/bw/moves/heat_crash",
+      "Type" : 1
+   },
+   {
+      "Description" : "10% chance to burn the target.",
+      "Name" : "Heat Wave",
+      "PageLocation" : "/bw/moves/heat_wave",
+      "Type" : 1
+   },
+   {
+      "Description" : "Removes the target's Berry.",
+      "Name" : "Incinerate",
+      "PageLocation" : "/bw/moves/incinerate",
+      "Type" : 1
+   },
+   {
+      "Description" : "Burns the target.",
+      "Name" : "Inferno",
+      "PageLocation" : "/bw/moves/inferno",
+      "Type" : 1
+   },
+   {
+      "Description" : "30% chance to burn.",
+      "Name" : "Lava Plume",
+      "PageLocation" : "/bw/moves/lava_plume",
+      "Type" : 1
+   },
+   {
+      "Description" : "Traps and damages the target over 4-5 turns.",
+      "Name" : "Magma Storm",
+      "PageLocation" : "/bw/moves/magma_storm",
+      "Type" : 1
+   },
+   {
+      "Description" : "Lowers user's Special Attack by 2 stages.",
+      "Name" : "Overheat",
+      "PageLocation" : "/bw/moves/overheat",
+      "Type" : 1
+   },
+   {
+      "Description" : "50% chance to burn the target. Thaws the user.",
+      "Name" : "Sacred Fire",
+      "PageLocation" : "/bw/moves/sacred_fire",
+      "Type" : 1
+   },
+   {
+      "Description" : "30% chance to burn the target.",
+      "Name" : "Searing Shot",
+      "PageLocation" : "/bw/moves/searing_shot",
+      "Type" : 1
+   },
+   {
+      "Description" : "Summons sunlight for five turns.",
+      "Name" : "Sunny Day",
+      "PageLocation" : "/bw/moves/sunny_day",
+      "Type" : 1
+   },
+   {
+      "Description" : "Lowers user's Defense, Special Defense, and Speed by 1 stage.",
+      "Name" : "V-create",
+      "PageLocation" : "/bw/moves/v-create",
+      "Type" : 1
+   },
+   {
+      "Description" : "Burns the target.",
+      "Name" : "Will-O-Wisp",
+      "PageLocation" : "/bw/moves/will-o-wisp",
+      "Type" : 1
+   },
+   {
+      "Description" : "The user always attacks first.",
+      "Name" : "Aqua Jet",
+      "PageLocation" : "/bw/moves/aqua_jet",
+      "Type" : 2
+   },
+   {
+      "Description" : "User recovers 1/16th max HP each turn.",
+      "Name" : "Aqua Ring",
+      "PageLocation" : "/bw/moves/aqua_ring",
+      "Type" : 2
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Aqua Tail",
+      "PageLocation" : "/bw/moves/aqua_tail",
+      "Type" : 2
+   },
+   {
+      "Description" : "Base Power doubles if target's HP is 50% or less.",
+      "Name" : "Brine",
+      "PageLocation" : "/bw/moves/brine",
+      "Type" : 2
+   },
+   {
+      "Description" : "10% chance to lower target's Speed by 1 stage.",
+      "Name" : "Bubble",
+      "PageLocation" : "/bw/moves/bubble",
+      "Type" : 2
+   },
+   {
+      "Description" : "10% chance to lower target's Speed by 1 stage.",
+      "Name" : "BubbleBeam",
+      "PageLocation" : "/bw/moves/bubblebeam",
+      "Type" : 2
+   },
+   {
+      "Description" : "Traps and damages the target over 4-5 turns.",
+      "Name" : "Clamp",
+      "PageLocation" : "/bw/moves/clamp",
+      "Type" : 2
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Crabhammer",
+      "PageLocation" : "/bw/moves/crabhammer",
+      "Type" : 2
+   },
+   {
+      "Description" : "User is made invulnerable for one turn, then hits the next turn.",
+      "Name" : "Dive",
+      "PageLocation" : "/bw/moves/dive",
+      "Type" : 2
+   },
+   {
+      "Description" : "The user cannot attack next turn.",
+      "Name" : "Hydro Cannon",
+      "PageLocation" : "/bw/moves/hydro_cannon",
+      "Type" : 2
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Hydro Pump",
+      "PageLocation" : "/bw/moves/hydro_pump",
+      "Type" : 2
+   },
+   {
+      "Description" : "30% chance to lower target's accuracy by 1 stage.",
+      "Name" : "Muddy Water",
+      "PageLocation" : "/bw/moves/muddy_water",
+      "Type" : 2
+   },
+   {
+      "Description" : "50% chance to lower target's accuracy by 1 stage.",
+      "Name" : "Octazooka",
+      "PageLocation" : "/bw/moves/octazooka",
+      "Type" : 2
+   },
+   {
+      "Description" : "Summons rain for five turns.",
+      "Name" : "Rain Dance",
+      "PageLocation" : "/bw/moves/rain_dance",
+      "Type" : 2
+   },
+   {
+      "Description" : "50% chance to lower target's Defense by 1 stage.",
+      "Name" : "Razor Shell",
+      "PageLocation" : "/bw/moves/razor_shell",
+      "Type" : 2
+   },
+   {
+      "Description" : "30% chance to burn the target. Thaws the user.",
+      "Name" : "Scald",
+      "PageLocation" : "/bw/moves/scald",
+      "Type" : 2
+   },
+   {
+      "Description" : "Changes the target's type to Water.",
+      "Name" : "Soak",
+      "PageLocation" : "/bw/moves/soak",
+      "Type" : 2
+   },
+   {
+      "Description" : "Hits Pokemon using Dive with double Base Power.",
+      "Name" : "Surf",
+      "PageLocation" : "/bw/moves/surf",
+      "Type" : 2
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Water Gun",
+      "PageLocation" : "/bw/moves/water_gun",
+      "Type" : 2
+   },
+   {
+      "Description" : "Use with Fire Pledge and Grass Pledge for additional effect.",
+      "Name" : "Water Pledge",
+      "PageLocation" : "/bw/moves/water_pledge",
+      "Type" : 2
+   },
+   {
+      "Description" : "20% chance to confuse the target.",
+      "Name" : "Water Pulse",
+      "PageLocation" : "/bw/moves/water_pulse",
+      "Type" : 2
+   },
+   {
+      "Description" : "Fire-type attacks have their power reduced 0.33x.",
+      "Name" : "Water Sport",
+      "PageLocation" : "/bw/moves/water_sport",
+      "Type" : 2
+   },
+   {
+      "Description" : "Does less damage as the user's HP decreases.",
+      "Name" : "Water Spout",
+      "PageLocation" : "/bw/moves/water_spout",
+      "Type" : 2
+   },
+   {
+      "Description" : "20% chance to flinch the target.",
+      "Name" : "Waterfall",
+      "PageLocation" : "/bw/moves/waterfall",
+      "Type" : 2
+   },
+   {
+      "Description" : "Traps and damages for 4-5 turns.",
+      "Name" : "Whirlpool",
+      "PageLocation" : "/bw/moves/whirlpool",
+      "Type" : 2
+   },
+   {
+      "Description" : "Boosts user's Defense one stage.",
+      "Name" : "Withdraw",
+      "PageLocation" : "/bw/moves/withdraw",
+      "Type" : 2
+   },
+   {
+      "Description" : "20% chance to paralyze the target.",
+      "Name" : "Bolt Strike",
+      "PageLocation" : "/bw/moves/bolt_strike",
+      "Type" : 3
+   },
+   {
+      "Description" : "Doubles power of an Electric-type move used next turn. Boosts user's Special Defense by 1 stage.",
+      "Name" : "Charge",
+      "PageLocation" : "/bw/moves/charge",
+      "Type" : 3
+   },
+   {
+      "Description" : "70% chance to boost user's Special Attack by 1 stage.",
+      "Name" : "Charge Beam",
+      "PageLocation" : "/bw/moves/charge_beam",
+      "Type" : 3
+   },
+   {
+      "Description" : "30% chance to paralyze the opponent.",
+      "Name" : "Discharge",
+      "PageLocation" : "/bw/moves/discharge",
+      "Type" : 3
+   },
+   {
+      "Description" : "Inflicts more damage the faster the user is compared to the target.",
+      "Name" : "Electro Ball",
+      "PageLocation" : "/bw/moves/electro_ball",
+      "Type" : 3
+   },
+   {
+      "Description" : "Lowers target's Speed by 1 stage.",
+      "Name" : "Electroweb",
+      "PageLocation" : "/bw/moves/electroweb",
+      "Type" : 3
+   },
+   {
+      "Description" : "Power doubles if used after Fusion Flare.",
+      "Name" : "Fusion Bolt",
+      "PageLocation" : "/bw/moves/fusion_bolt",
+      "Type" : 3
+   },
+   {
+      "Description" : "User becomes immune to Ground moves for 5 turns.",
+      "Name" : "Magnet Rise",
+      "PageLocation" : "/bw/moves/magnet_rise",
+      "Type" : 3
+   },
+   {
+      "Description" : "Ignores evasion modifiers.",
+      "Name" : "Shock Wave",
+      "PageLocation" : "/bw/moves/shock_wave",
+      "Type" : 3
+   },
+   {
+      "Description" : "30% chance to paralyze the target.",
+      "Name" : "Spark",
+      "PageLocation" : "/bw/moves/spark",
+      "Type" : 3
+   },
+   {
+      "Description" : "30% chance to paralyze the target.",
+      "Name" : "Thunder",
+      "PageLocation" : "/bw/moves/thunder",
+      "Type" : 3
+   },
+   {
+      "Description" : "10% chance to paralyze the target. 10% chance to flinch the target.",
+      "Name" : "Thunder Fang",
+      "PageLocation" : "/bw/moves/thunder_fang",
+      "Type" : 3
+   },
+   {
+      "Description" : "Paralyzes the target.",
+      "Name" : "Thunder Wave",
+      "PageLocation" : "/bw/moves/thunder_wave",
+      "Type" : 3
+   },
+   {
+      "Description" : "10% chance to paralyze the target.",
+      "Name" : "Thunderbolt",
+      "PageLocation" : "/bw/moves/thunderbolt",
+      "Type" : 3
+   },
+   {
+      "Description" : "10% chance to paralyze the target.",
+      "Name" : "ThunderPunch",
+      "PageLocation" : "/bw/moves/thunderpunch",
+      "Type" : 3
+   },
+   {
+      "Description" : "10% chance to paralyze the target.",
+      "Name" : "ThunderShock",
+      "PageLocation" : "/bw/moves/thundershock",
+      "Type" : 3
+   },
+   {
+      "Description" : "Forces user to switch.",
+      "Name" : "Volt Switch",
+      "PageLocation" : "/bw/moves/volt_switch",
+      "Type" : 3
+   },
+   {
+      "Description" : "1/3 recoil and 10% chance to paralyze the target.",
+      "Name" : "Volt Tackle",
+      "PageLocation" : "/bw/moves/volt_tackle",
+      "Type" : 3
+   },
+   {
+      "Description" : "Has 1/4 recoil.",
+      "Name" : "Wild Charge",
+      "PageLocation" : "/bw/moves/wild_charge",
+      "Type" : 3
+   },
+   {
+      "Description" : "Paralyzes the target.",
+      "Name" : "Zap Cannon",
+      "PageLocation" : "/bw/moves/zap_cannon",
+      "Type" : 3
+   },
+   {
+      "Description" : "Leeches 50% of the damage dealt.",
+      "Name" : "Absorb",
+      "PageLocation" : "/bw/moves/absorb",
+      "Type" : 4
+   },
+   {
+      "Description" : "Cures status ailments on the user and other party members.",
+      "Name" : "Aromatherapy",
+      "PageLocation" : "/bw/moves/aromatherapy",
+      "Type" : 4
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "Bullet Seed",
+      "PageLocation" : "/bw/moves/bullet_seed",
+      "Type" : 4
+   },
+   {
+      "Description" : "Boosts user's Defense by 3 stages.",
+      "Name" : "Cotton Guard",
+      "PageLocation" : "/bw/moves/cotton_guard",
+      "Type" : 4
+   },
+   {
+      "Description" : "Lowers target's Speed by 2 stages.",
+      "Name" : "Cotton Spore",
+      "PageLocation" : "/bw/moves/cotton_spore",
+      "Type" : 4
+   },
+   {
+      "Description" : "10% chance to lower target's Special Defense by 1 stage.",
+      "Name" : "Energy Ball",
+      "PageLocation" : "/bw/moves/energy_ball",
+      "Type" : 4
+   },
+   {
+      "Description" : "User cannot move next turn.",
+      "Name" : "Frenzy Plant",
+      "PageLocation" : "/bw/moves/frenzy_plant",
+      "Type" : 4
+   },
+   {
+      "Description" : "Leeches 50% of the damage dealt.",
+      "Name" : "Giga Drain",
+      "PageLocation" : "/bw/moves/giga_drain",
+      "Type" : 4
+   },
+   {
+      "Description" : "Deals damage based on the foe's weight.",
+      "Name" : "Grass Knot",
+      "PageLocation" : "/bw/moves/grass_knot",
+      "Type" : 4
+   },
+   {
+      "Description" : "Use with Grass Pledge and Water Pledge for additional effect.",
+      "Name" : "Grass Pledge",
+      "PageLocation" : "/bw/moves/grass_pledge",
+      "Type" : 4
+   },
+   {
+      "Description" : "Puts the target to sleep.",
+      "Name" : "GrassWhistle",
+      "PageLocation" : "/bw/moves/grasswhistle",
+      "Type" : 4
+   },
+   {
+      "Description" : "Leeches 50% of the damage dealt.",
+      "Name" : "Horn Leech",
+      "PageLocation" : "/bw/moves/horn_leech",
+      "Type" : 4
+   },
+   {
+      "Description" : "User recovers 1/16th max HP each turn. Prevents the user from switching.",
+      "Name" : "Ingrain",
+      "PageLocation" : "/bw/moves/ingrain",
+      "Type" : 4
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Leaf Blade",
+      "PageLocation" : "/bw/moves/leaf_blade",
+      "Type" : 4
+   },
+   {
+      "Description" : "Lowers user's Special Attack by 2 stages.",
+      "Name" : "Leaf Storm",
+      "PageLocation" : "/bw/moves/leaf_storm",
+      "Type" : 4
+   },
+   {
+      "Description" : "50% chance to lower target's accuracy by 1 stage.",
+      "Name" : "Leaf Tornado",
+      "PageLocation" : "/bw/moves/leaf_tornado",
+      "Type" : 4
+   },
+   {
+      "Description" : "Leeches 1/8 target's max HP each turn.",
+      "Name" : "Leech Seed",
+      "PageLocation" : "/bw/moves/leech_seed",
+      "Type" : 4
+   },
+   {
+      "Description" : "Ignores evasion modifiers.",
+      "Name" : "Magical Leaf",
+      "PageLocation" : "/bw/moves/magical_leaf",
+      "Type" : 4
+   },
+   {
+      "Description" : "Leeches 50% of the damage dealt.",
+      "Name" : "Mega Drain",
+      "PageLocation" : "/bw/moves/mega_drain",
+      "Type" : 4
+   },
+   {
+      "Description" : "30% chance to flinch the target.",
+      "Name" : "Needle Arm",
+      "PageLocation" : "/bw/moves/needle_arm",
+      "Type" : 4
+   },
+   {
+      "Description" : "Lasts 2-3 turns and will confuse the user afterward.",
+      "Name" : "Petal Dance",
+      "PageLocation" : "/bw/moves/petal_dance",
+      "Type" : 4
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Power Whip",
+      "PageLocation" : "/bw/moves/power_whip",
+      "Type" : 4
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Razor Leaf",
+      "PageLocation" : "/bw/moves/razor_leaf",
+      "Type" : 4
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Seed Bomb",
+      "PageLocation" : "/bw/moves/seed_bomb",
+      "Type" : 4
+   },
+   {
+      "Description" : "40% chance to lower target's Special Defense by 2 stages.",
+      "Name" : "Seed Flare",
+      "PageLocation" : "/bw/moves/seed_flare",
+      "Type" : 4
+   },
+   {
+      "Description" : "Puts the target to sleep.",
+      "Name" : "Sleep Powder",
+      "PageLocation" : "/bw/moves/sleep_powder",
+      "Type" : 4
+   },
+   {
+      "Description" : "Charges up turn 1; attacks on turn 2.",
+      "Name" : "SolarBeam",
+      "PageLocation" : "/bw/moves/solarbeam",
+      "Type" : 4
+   },
+   {
+      "Description" : "Puts the target to sleep.",
+      "Name" : "Spore",
+      "PageLocation" : "/bw/moves/spore",
+      "Type" : 4
+   },
+   {
+      "Description" : "Paralyzes the target.",
+      "Name" : "Stun Spore",
+      "PageLocation" : "/bw/moves/stun_spore",
+      "Type" : 4
+   },
+   {
+      "Description" : "Restores health based on the weather.",
+      "Name" : "Synthesis",
+      "PageLocation" : "/bw/moves/synthesis",
+      "Type" : 4
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Vine Whip",
+      "PageLocation" : "/bw/moves/vine_whip",
+      "Type" : 4
+   },
+   {
+      "Description" : "Has 1/3 recoil damage.",
+      "Name" : "Wood Hammer",
+      "PageLocation" : "/bw/moves/wood_hammer",
+      "Type" : 4
+   },
+   {
+      "Description" : "Changes the target's ability to Insomnia.",
+      "Name" : "Worry Seed",
+      "PageLocation" : "/bw/moves/worry_seed",
+      "Type" : 4
+   },
+   {
+      "Description" : "10% chance to lower target's Attack by 1 stage.",
+      "Name" : "Aurora Beam",
+      "PageLocation" : "/bw/moves/aurora_beam",
+      "Type" : 5
+   },
+   {
+      "Description" : "Doubles in Base Power if user is damaged by the target.",
+      "Name" : "Avalanche",
+      "PageLocation" : "/bw/moves/avalanche",
+      "Type" : 5
+   },
+   {
+      "Description" : "10% chance to freeze the target.",
+      "Name" : "Blizzard",
+      "PageLocation" : "/bw/moves/blizzard",
+      "Type" : 5
+   },
+   {
+      "Description" : "Hits the turn after being used. 30% chance to paralyze opponent.",
+      "Name" : "Freeze Shock",
+      "PageLocation" : "/bw/moves/freeze_shock",
+      "Type" : 5
+   },
+   {
+      "Description" : "Always results in a critical hit.",
+      "Name" : "Frost Breath",
+      "PageLocation" : "/bw/moves/frost_breath",
+      "Type" : 5
+   },
+   {
+      "Description" : "Lowers target's Speed by 1 stage.",
+      "Name" : "Glaciate",
+      "PageLocation" : "/bw/moves/glaciate",
+      "Type" : 5
+   },
+   {
+      "Description" : "Summons hail for 5 turns.",
+      "Name" : "Hail",
+      "PageLocation" : "/bw/moves/hail",
+      "Type" : 5
+   },
+   {
+      "Description" : "Eliminates all stat changes.",
+      "Name" : "Haze",
+      "PageLocation" : "/bw/moves/haze",
+      "Type" : 5
+   },
+   {
+      "Description" : "Doubles in power with each hit. Repeats for 5 turns.",
+      "Name" : "Ice Ball",
+      "PageLocation" : "/bw/moves/ice_ball",
+      "Type" : 5
+   },
+   {
+      "Description" : "10% chance to freeze the target.",
+      "Name" : "Ice Beam",
+      "PageLocation" : "/bw/moves/ice_beam",
+      "Type" : 5
+   },
+   {
+      "Description" : "Hits the turn after being used. 30% chance to burn the target.",
+      "Name" : "Ice Burn",
+      "PageLocation" : "/bw/moves/ice_burn",
+      "Type" : 5
+   },
+   {
+      "Description" : "10% chance to freeze the target. 10% chance to flinch the target.",
+      "Name" : "Ice Fang",
+      "PageLocation" : "/bw/moves/ice_fang",
+      "Type" : 5
+   },
+   {
+      "Description" : "10% chance to freeze the target.",
+      "Name" : "Ice Punch",
+      "PageLocation" : "/bw/moves/ice_punch",
+      "Type" : 5
+   },
+   {
+      "Description" : "The user always attacks first.",
+      "Name" : "Ice Shard",
+      "PageLocation" : "/bw/moves/ice_shard",
+      "Type" : 5
+   },
+   {
+      "Description" : "30% chance to flinch the target.",
+      "Name" : "Icicle Crash",
+      "PageLocation" : "/bw/moves/icicle_crash",
+      "Type" : 5
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "Icicle Spear",
+      "PageLocation" : "/bw/moves/icicle_spear",
+      "Type" : 5
+   },
+   {
+      "Description" : "Lowers target's Speed by 1 stage.",
+      "Name" : "Icy Wind",
+      "PageLocation" : "/bw/moves/icy_wind",
+      "Type" : 5
+   },
+   {
+      "Description" : "Prevents moves that lower stats from working for 5 turns.",
+      "Name" : "Mist",
+      "PageLocation" : "/bw/moves/mist",
+      "Type" : 5
+   },
+   {
+      "Description" : "10% chance to freeze the target.",
+      "Name" : "Powder Snow",
+      "PageLocation" : "/bw/moves/powder_snow",
+      "Type" : 5
+   },
+   {
+      "Description" : "Will OHKO the target.",
+      "Name" : "Sheer Cold",
+      "PageLocation" : "/bw/moves/sheer_cold",
+      "Type" : 5
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "Arm Thrust",
+      "PageLocation" : "/bw/moves/arm_thrust",
+      "Type" : 6
+   },
+   {
+      "Description" : "Ignores evasion modifiers.",
+      "Name" : "Aura Sphere",
+      "PageLocation" : "/bw/moves/aura_sphere",
+      "Type" : 6
+   },
+   {
+      "Description" : "Destroys Light Screen and Reflect, then hits. Does not break screens if the target is immune.",
+      "Name" : "Brick Break",
+      "PageLocation" : "/bw/moves/brick_break",
+      "Type" : 6
+   },
+   {
+      "Description" : "Boosts user's Attack and Defense by 1 stage.",
+      "Name" : "Bulk Up",
+      "PageLocation" : "/bw/moves/bulk_up",
+      "Type" : 6
+   },
+   {
+      "Description" : "Forces the target to switch to a random Pokemon.",
+      "Name" : "Circle Throw",
+      "PageLocation" : "/bw/moves/circle_throw",
+      "Type" : 6
+   },
+   {
+      "Description" : "Lowers user's Defense and Special Defense by 1 stage.",
+      "Name" : "Close Combat",
+      "PageLocation" : "/bw/moves/close_combat",
+      "Type" : 6
+   },
+   {
+      "Description" : "If hit by a physical attack, returns double the damage.",
+      "Name" : "Counter",
+      "PageLocation" : "/bw/moves/counter",
+      "Type" : 6
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Cross Chop",
+      "PageLocation" : "/bw/moves/cross_chop",
+      "Type" : 6
+   },
+   {
+      "Description" : "Prevents most moves from working on the user that turn.",
+      "Name" : "Detect",
+      "PageLocation" : "/bw/moves/detect",
+      "Type" : 6
+   },
+   {
+      "Description" : "Hits 2 times in one turn.",
+      "Name" : "Double Kick",
+      "PageLocation" : "/bw/moves/double_kick",
+      "Type" : 6
+   },
+   {
+      "Description" : "Leeches 50% of the damage dealt.",
+      "Name" : "Drain Punch",
+      "PageLocation" : "/bw/moves/drain_punch",
+      "Type" : 6
+   },
+   {
+      "Description" : "Confuses the target.",
+      "Name" : "DynamicPunch",
+      "PageLocation" : "/bw/moves/dynamicpunch",
+      "Type" : 6
+   },
+   {
+      "Description" : "Faints the user. Target takes damage equal to the user's HP at the time of use.",
+      "Name" : "Final Gambit",
+      "PageLocation" : "/bw/moves/final_gambit",
+      "Type" : 6
+   },
+   {
+      "Description" : "10% chance to lower target's Special Defense by 1 stage.",
+      "Name" : "Focus Blast",
+      "PageLocation" : "/bw/moves/focus_blast",
+      "Type" : 6
+   },
+   {
+      "Description" : "Fails if the user takes damage before it hits.",
+      "Name" : "Focus Punch",
+      "PageLocation" : "/bw/moves/focus_punch",
+      "Type" : 6
+   },
+   {
+      "Description" : "30% chance to paralyze opponent.",
+      "Name" : "Force Palm",
+      "PageLocation" : "/bw/moves/force_palm",
+      "Type" : 6
+   },
+   {
+      "Description" : "Lowers user's Speed by 1 stage.",
+      "Name" : "Hammer Arm",
+      "PageLocation" : "/bw/moves/hammer_arm",
+      "Type" : 6
+   },
+   {
+      "Description" : "User takes 50% recoil if attack misses.",
+      "Name" : "Hi Jump Kick",
+      "PageLocation" : "/bw/moves/hi_jump_kick",
+      "Type" : 6
+   },
+   {
+      "Description" : "User takes 50% recoil if attack misses.",
+      "Name" : "Jump Kick",
+      "PageLocation" : "/bw/moves/jump_kick",
+      "Type" : 6
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Karate Chop",
+      "PageLocation" : "/bw/moves/karate_chop",
+      "Type" : 6
+   },
+   {
+      "Description" : "Damage is based on opponent's weight.",
+      "Name" : "Low Kick",
+      "PageLocation" : "/bw/moves/low_kick",
+      "Type" : 6
+   },
+   {
+      "Description" : "Lowers target's Speed by 1 stage.",
+      "Name" : "Low Sweep",
+      "PageLocation" : "/bw/moves/low_sweep",
+      "Type" : 6
+   },
+   {
+      "Description" : "The user always attacks first.",
+      "Name" : "Mach Punch",
+      "PageLocation" : "/bw/moves/mach_punch",
+      "Type" : 6
+   },
+   {
+      "Description" : "Protects user and allies from priority attacks.",
+      "Name" : "Quick Guard",
+      "PageLocation" : "/bw/moves/quick_guard",
+      "Type" : 6
+   },
+   {
+      "Description" : "Doubles in power if user is damaged by the target.",
+      "Name" : "Revenge",
+      "PageLocation" : "/bw/moves/revenge",
+      "Type" : 6
+   },
+   {
+      "Description" : "Does more damage as user's HP decreases.",
+      "Name" : "Reversal",
+      "PageLocation" : "/bw/moves/reversal",
+      "Type" : 6
+   },
+   {
+      "Description" : "50% chance to lower target's Defense by 1 stage.",
+      "Name" : "Rock Smash",
+      "PageLocation" : "/bw/moves/rock_smash",
+      "Type" : 6
+   },
+   {
+      "Description" : "30% chance to flinch the target.",
+      "Name" : "Rolling Kick",
+      "PageLocation" : "/bw/moves/rolling_kick",
+      "Type" : 6
+   },
+   {
+      "Description" : "Ignores the target's stat changes.",
+      "Name" : "Sacred Sword",
+      "PageLocation" : "/bw/moves/sacred_sword",
+      "Type" : 6
+   },
+   {
+      "Description" : "Damage is based on the target's Defense stat.",
+      "Name" : "Secret Sword",
+      "PageLocation" : "/bw/moves/secret_sword",
+      "Type" : 6
+   },
+   {
+      "Description" : "Does damage equal to the user's level.",
+      "Name" : "Seismic Toss",
+      "PageLocation" : "/bw/moves/seismic_toss",
+      "Type" : 6
+   },
+   {
+      "Description" : "Hits Pokemon using Bounce, Sky Drop, or Fly.",
+      "Name" : "Sky Uppercut",
+      "PageLocation" : "/bw/moves/sky_uppercut",
+      "Type" : 6
+   },
+   {
+      "Description" : "Always results in a critical hit.",
+      "Name" : "Storm Throw",
+      "PageLocation" : "/bw/moves/storm_throw",
+      "Type" : 6
+   },
+   {
+      "Description" : "Has 1/4 recoil.",
+      "Name" : "Submission",
+      "PageLocation" : "/bw/moves/submission",
+      "Type" : 6
+   },
+   {
+      "Description" : "Lowers user's Attack and Defense by 1 stage.",
+      "Name" : "Superpower",
+      "PageLocation" : "/bw/moves/superpower",
+      "Type" : 6
+   },
+   {
+      "Description" : "Hits 3 times with Base Power increasing for each hit.",
+      "Name" : "Triple Kick",
+      "PageLocation" : "/bw/moves/triple_kick",
+      "Type" : 6
+   },
+   {
+      "Description" : "The user always attacks first.",
+      "Name" : "Vacuum Wave",
+      "PageLocation" : "/bw/moves/vacuum_wave",
+      "Type" : 6
+   },
+   {
+      "Description" : "Ignores evasion modifiers.",
+      "Name" : "Vital Throw",
+      "PageLocation" : "/bw/moves/vital_throw",
+      "Type" : 6
+   },
+   {
+      "Description" : "If target is asleep, Base Power doubles, but the target wakes up.",
+      "Name" : "Wake-Up Slap",
+      "PageLocation" : "/bw/moves/wake-up_slap",
+      "Type" : 6
+   },
+   {
+      "Description" : "10% chance to lower Special Defense 1 stage.",
+      "Name" : "Acid",
+      "PageLocation" : "/bw/moves/acid",
+      "Type" : 7
+   },
+   {
+      "Description" : "Boosts user's Defense by 2 stages.",
+      "Name" : "Acid Armor",
+      "PageLocation" : "/bw/moves/acid_armor",
+      "Type" : 7
+   },
+   {
+      "Description" : "Lowers target's Special Defense by 2 stages.",
+      "Name" : "Acid Spray",
+      "PageLocation" : "/bw/moves/acid_spray",
+      "Type" : 7
+   },
+   {
+      "Description" : "Eliminates all stat changes.",
+      "Name" : "Clear Smog",
+      "PageLocation" : "/bw/moves/clear_smog",
+      "Type" : 7
+   },
+   {
+      "Description" : "Boosts user's Attack, Defense, and accuracy by 1 stage.",
+      "Name" : "Coil",
+      "PageLocation" : "/bw/moves/coil",
+      "Type" : 7
+   },
+   {
+      "Description" : "Has a higher critical hit ratio. 10% chance to poison the foe.",
+      "Name" : "Cross Poison",
+      "PageLocation" : "/bw/moves/cross_poison",
+      "Type" : 7
+   },
+   {
+      "Description" : "Nullifies the target's ability.",
+      "Name" : "Gastro Acid",
+      "PageLocation" : "/bw/moves/gastro_acid",
+      "Type" : 7
+   },
+   {
+      "Description" : "30% chance to poison the target.",
+      "Name" : "Gunk Shot",
+      "PageLocation" : "/bw/moves/gunk_shot",
+      "Type" : 7
+   },
+   {
+      "Description" : "30% chance to badly poison the opponent.",
+      "Name" : "Poison Fang",
+      "PageLocation" : "/bw/moves/poison_fang",
+      "Type" : 7
+   },
+   {
+      "Description" : "Poisons the target.",
+      "Name" : "Poison Gas",
+      "PageLocation" : "/bw/moves/poison_gas",
+      "Type" : 7
+   },
+   {
+      "Description" : "30% chance to poison opponent.",
+      "Name" : "Poison Jab",
+      "PageLocation" : "/bw/moves/poison_jab",
+      "Type" : 7
+   },
+   {
+      "Description" : "30% chance to poison opponent.",
+      "Name" : "Poison Sting",
+      "PageLocation" : "/bw/moves/poison_sting",
+      "Type" : 7
+   },
+   {
+      "Description" : "Has a high critical hit rate. 10% chance to poison opponent.",
+      "Name" : "Poison Tail",
+      "PageLocation" : "/bw/moves/poison_tail",
+      "Type" : 7
+   },
+   {
+      "Description" : "Poisons the target.",
+      "Name" : "PoisonPowder",
+      "PageLocation" : "/bw/moves/poisonpowder",
+      "Type" : 7
+   },
+   {
+      "Description" : "30% chance to poison the target.",
+      "Name" : "Sludge",
+      "PageLocation" : "/bw/moves/sludge",
+      "Type" : 7
+   },
+   {
+      "Description" : "30% chance to poison the target.",
+      "Name" : "Sludge Bomb",
+      "PageLocation" : "/bw/moves/sludge_bomb",
+      "Type" : 7
+   },
+   {
+      "Description" : "10% chance to poison the target.",
+      "Name" : "Sludge Wave",
+      "PageLocation" : "/bw/moves/sludge_wave",
+      "Type" : 7
+   },
+   {
+      "Description" : "40% chance to poison the target.",
+      "Name" : "Smog",
+      "PageLocation" : "/bw/moves/smog",
+      "Type" : 7
+   },
+   {
+      "Description" : "Badly poisons the target.",
+      "Name" : "Toxic",
+      "PageLocation" : "/bw/moves/toxic",
+      "Type" : 7
+   },
+   {
+      "Description" : "Poisons opponents as they switch in.",
+      "Name" : "Toxic Spikes",
+      "PageLocation" : "/bw/moves/toxic_spikes",
+      "Type" : 7
+   },
+   {
+      "Description" : "Hits poisoned targets with double Base Power.",
+      "Name" : "Venoshock",
+      "PageLocation" : "/bw/moves/venoshock",
+      "Type" : 7
+   },
+   {
+      "Description" : "10% chance to flinch the target.",
+      "Name" : "Bone Club",
+      "PageLocation" : "/bw/moves/bone_club",
+      "Type" : 8
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "Bone Rush",
+      "PageLocation" : "/bw/moves/bone_rush",
+      "Type" : 8
+   },
+   {
+      "Description" : "Hits 2 times in one turn.",
+      "Name" : "Bonemerang",
+      "PageLocation" : "/bw/moves/bonemerang",
+      "Type" : 8
+   },
+   {
+      "Description" : "Lowers target's Speed by 1 stage.",
+      "Name" : "Bulldoze",
+      "PageLocation" : "/bw/moves/bulldoze",
+      "Type" : 8
+   },
+   {
+      "Description" : "User is made invulnerable for one turn, then hits the next turn.",
+      "Name" : "Dig",
+      "PageLocation" : "/bw/moves/dig",
+      "Type" : 8
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Drill Run",
+      "PageLocation" : "/bw/moves/drill_run",
+      "Type" : 8
+   },
+   {
+      "Description" : "10% chance to lower target's Special Defense by 1 stage.",
+      "Name" : "Earth Power",
+      "PageLocation" : "/bw/moves/earth_power",
+      "Type" : 8
+   },
+   {
+      "Description" : "Hits Pokemon using Dig with double Base Power.",
+      "Name" : "Earthquake",
+      "PageLocation" : "/bw/moves/earthquake",
+      "Type" : 8
+   },
+   {
+      "Description" : "Will OHKO the target.",
+      "Name" : "Fissure",
+      "PageLocation" : "/bw/moves/fissure",
+      "Type" : 8
+   },
+   {
+      "Description" : "Has variable damage. Hits Pokemon using Dig with double Base Power.",
+      "Name" : "Magnitude",
+      "PageLocation" : "/bw/moves/magnitude",
+      "Type" : 8
+   },
+   {
+      "Description" : "30% chance to lower target's accuracy by 1 stage.",
+      "Name" : "Mud Bomb",
+      "PageLocation" : "/bw/moves/mud_bomb",
+      "Type" : 8
+   },
+   {
+      "Description" : "Lowers target's Speed by 1 stage.",
+      "Name" : "Mud Shot",
+      "PageLocation" : "/bw/moves/mud_shot",
+      "Type" : 8
+   },
+   {
+      "Description" : "Electric-type attacks have their power reduced 0.33x.",
+      "Name" : "Mud Sport",
+      "PageLocation" : "/bw/moves/mud_sport",
+      "Type" : 8
+   },
+   {
+      "Description" : "Lowers target's accuracy by 1 stage.",
+      "Name" : "Mud-Slap",
+      "PageLocation" : "/bw/moves/mud-slap",
+      "Type" : 8
+   },
+   {
+      "Description" : "Traps and damages the target over 4-5 turns.",
+      "Name" : "Sand Tomb",
+      "PageLocation" : "/bw/moves/sand_tomb",
+      "Type" : 8
+   },
+   {
+      "Description" : "Lowers target's accuracy by 1 stage.",
+      "Name" : "Sand-Attack",
+      "PageLocation" : "/bw/moves/sand-attack",
+      "Type" : 8
+   },
+   {
+      "Description" : "Causes damage to the enemy whenever they switch.",
+      "Name" : "Spikes",
+      "PageLocation" : "/bw/moves/spikes",
+      "Type" : 8
+   },
+   {
+      "Description" : "Doubles in power if user has no held item.",
+      "Name" : "Acrobatics",
+      "PageLocation" : "/bw/moves/acrobatics",
+      "Type" : 9
+   },
+   {
+      "Description" : "Ignores evasion modifiers.",
+      "Name" : "Aerial Ace",
+      "PageLocation" : "/bw/moves/aerial_ace",
+      "Type" : 9
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Aeroblast",
+      "PageLocation" : "/bw/moves/aeroblast",
+      "Type" : 9
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Air Cutter",
+      "PageLocation" : "/bw/moves/air_cutter",
+      "Type" : 9
+   },
+   {
+      "Description" : "30% chance to flinch the target.",
+      "Name" : "Air Slash",
+      "PageLocation" : "/bw/moves/air_slash",
+      "Type" : 9
+   },
+   {
+      "Description" : "User is made invulnerable for one turn, then hits the next turn. 30% chance to paralyze the target.",
+      "Name" : "Bounce",
+      "PageLocation" : "/bw/moves/bounce",
+      "Type" : 9
+   },
+   {
+      "Description" : "Has 1/3 recoil damage.",
+      "Name" : "Brave Bird",
+      "PageLocation" : "/bw/moves/brave_bird",
+      "Type" : 9
+   },
+   {
+      "Description" : "Confuses the target.",
+      "Name" : "Chatter",
+      "PageLocation" : "/bw/moves/chatter",
+      "Type" : 9
+   },
+   {
+      "Description" : "Lowers target's evasion by 1 stage. Removes various field effects.",
+      "Name" : "Defog",
+      "PageLocation" : "/bw/moves/defog",
+      "Type" : 9
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Drill Peck",
+      "PageLocation" : "/bw/moves/drill_peck",
+      "Type" : 9
+   },
+   {
+      "Description" : "Lowers target's Attack by 2 stages.",
+      "Name" : "FeatherDance",
+      "PageLocation" : "/bw/moves/featherdance",
+      "Type" : 9
+   },
+   {
+      "Description" : "User is made invulnerable for one turn, then hits the next turn.",
+      "Name" : "Fly",
+      "PageLocation" : "/bw/moves/fly",
+      "Type" : 9
+   },
+   {
+      "Description" : "Deals damage. Hits Pokemon using Bounce, Fly, or Sky Drop for double Base Power.",
+      "Name" : "Gust",
+      "PageLocation" : "/bw/moves/gust",
+      "Type" : 9
+   },
+   {
+      "Description" : "30% chance to confuse the target.",
+      "Name" : "Hurricane",
+      "PageLocation" : "/bw/moves/hurricane",
+      "Type" : 9
+   },
+   {
+      "Description" : "Uses the last move targeted at the user.",
+      "Name" : "Mirror Move",
+      "PageLocation" : "/bw/moves/mirror_move",
+      "Type" : 9
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Peck",
+      "PageLocation" : "/bw/moves/peck",
+      "Type" : 9
+   },
+   {
+      "Description" : "User steals the effect of the target's Berry.",
+      "Name" : "Pluck",
+      "PageLocation" : "/bw/moves/pluck",
+      "Type" : 9
+   },
+   {
+      "Description" : "Heals 50% HP. Temporarily removes the user's Flying typing.",
+      "Name" : "Roost",
+      "PageLocation" : "/bw/moves/roost",
+      "Type" : 9
+   },
+   {
+      "Description" : "Hits the turn after being used. 30% chance to flinch the target.",
+      "Name" : "Sky Attack",
+      "PageLocation" : "/bw/moves/sky_attack",
+      "Type" : 9
+   },
+   {
+      "Description" : "Hits the turn after being used. The target cannot move while in the air.",
+      "Name" : "Sky Drop",
+      "PageLocation" : "/bw/moves/sky_drop",
+      "Type" : 9
+   },
+   {
+      "Description" : "Doubles Speed of the user's party for 4 turns.",
+      "Name" : "Tailwind",
+      "PageLocation" : "/bw/moves/tailwind",
+      "Type" : 9
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Wing Attack",
+      "PageLocation" : "/bw/moves/wing_attack",
+      "Type" : 9
+   },
+   {
+      "Description" : "Boosts user's Speed by 2 stages.",
+      "Name" : "Agility",
+      "PageLocation" : "/bw/moves/agility",
+      "Type" : 10
+   },
+   {
+      "Description" : "Switches position with another Pokemon on user's side of the field.",
+      "Name" : "Ally Switch",
+      "PageLocation" : "/bw/moves/ally_switch",
+      "Type" : 10
+   },
+   {
+      "Description" : "Boosts user's Special Defense by 2 stages.",
+      "Name" : "Amnesia",
+      "PageLocation" : "/bw/moves/amnesia",
+      "Type" : 10
+   },
+   {
+      "Description" : "Boosts user's Defense by 2 stages.",
+      "Name" : "Barrier",
+      "PageLocation" : "/bw/moves/barrier",
+      "Type" : 10
+   },
+   {
+      "Description" : "Boosts user's Special Attack and Special Defense by 1 stage.",
+      "Name" : "Calm Mind",
+      "PageLocation" : "/bw/moves/calm_mind",
+      "Type" : 10
+   },
+   {
+      "Description" : "10% chance to confuse opponent.",
+      "Name" : "Confusion",
+      "PageLocation" : "/bw/moves/confusion",
+      "Type" : 10
+   },
+   {
+      "Description" : "Boosts user's Defense and Special Defense by 1 stage.",
+      "Name" : "Cosmic Power",
+      "PageLocation" : "/bw/moves/cosmic_power",
+      "Type" : 10
+   },
+   {
+      "Description" : "Leeches 50% of the damage dealt. Only works if target is asleep.",
+      "Name" : "Dream Eater",
+      "PageLocation" : "/bw/moves/dream_eater",
+      "Type" : 10
+   },
+   {
+      "Description" : "10% chance to flinch the target.",
+      "Name" : "Extrasensory",
+      "PageLocation" : "/bw/moves/extrasensory",
+      "Type" : 10
+   },
+   {
+      "Description" : "Deals damage at the end of the turn after three turns.",
+      "Name" : "Future Sight",
+      "PageLocation" : "/bw/moves/future_sight",
+      "Type" : 10
+   },
+   {
+      "Description" : "For 5 turns, prevents flying or jumping. Also negates Ground immunities.",
+      "Name" : "Gravity",
+      "PageLocation" : "/bw/moves/gravity",
+      "Type" : 10
+   },
+   {
+      "Description" : "Averages Defense and Special Defense stats of the user with the target.",
+      "Name" : "Guard Split",
+      "PageLocation" : "/bw/moves/guard_split",
+      "Type" : 10
+   },
+   {
+      "Description" : "Swaps user's Defense and Special Defense stages with the target.",
+      "Name" : "Guard Swap",
+      "PageLocation" : "/bw/moves/guard_swap",
+      "Type" : 10
+   },
+   {
+      "Description" : "Prevents opponents from healing for 5 turns.",
+      "Name" : "Heal Block",
+      "PageLocation" : "/bw/moves/heal_block",
+      "Type" : 10
+   },
+   {
+      "Description" : "Heals the target by 50% its max HP.",
+      "Name" : "Heal Pulse",
+      "PageLocation" : "/bw/moves/heal_pulse",
+      "Type" : 10
+   },
+   {
+      "Description" : "Faints the user, but heals the replacement.",
+      "Name" : "Healing Wish",
+      "PageLocation" : "/bw/moves/healing_wish",
+      "Type" : 10
+   },
+   {
+      "Description" : "30% chance to flinch the target.",
+      "Name" : "Heart Stamp",
+      "PageLocation" : "/bw/moves/heart_stamp",
+      "Type" : 10
+   },
+   {
+      "Description" : "Switches user's stat changes with target's.",
+      "Name" : "Heart Swap",
+      "PageLocation" : "/bw/moves/heart_swap",
+      "Type" : 10
+   },
+   {
+      "Description" : "Puts the target to sleep.",
+      "Name" : "Hypnosis",
+      "PageLocation" : "/bw/moves/hypnosis",
+      "Type" : 10
+   },
+   {
+      "Description" : "No opponent can use any of the user's moves.",
+      "Name" : "Imprison",
+      "PageLocation" : "/bw/moves/imprison",
+      "Type" : 10
+   },
+   {
+      "Description" : "Lowers target's accuracy by 1 stage.",
+      "Name" : "Kinesis",
+      "PageLocation" : "/bw/moves/kinesis",
+      "Type" : 10
+   },
+   {
+      "Description" : "Doubles your team's Special Defense for 5 turns.",
+      "Name" : "Light Screen",
+      "PageLocation" : "/bw/moves/light_screen",
+      "Type" : 10
+   },
+   {
+      "Description" : "Faints the user, but the replacement is healed completely.",
+      "Name" : "Lunar Dance",
+      "PageLocation" : "/bw/moves/lunar_dance",
+      "Type" : 10
+   },
+   {
+      "Description" : "50% chance to lower target's Special Defense by 1 stage.",
+      "Name" : "Luster Purge",
+      "PageLocation" : "/bw/moves/luster_purge",
+      "Type" : 10
+   },
+   {
+      "Description" : "Bounces back certain non-damaging moves.",
+      "Name" : "Magic Coat",
+      "PageLocation" : "/bw/moves/magic_coat",
+      "Type" : 10
+   },
+   {
+      "Description" : "Held items have no effect for 5 turns.",
+      "Name" : "Magic Room",
+      "PageLocation" : "/bw/moves/magic_room",
+      "Type" : 10
+   },
+   {
+      "Description" : "Boosts user's Attack by 1 stage.",
+      "Name" : "Meditate",
+      "PageLocation" : "/bw/moves/meditate",
+      "Type" : 10
+   },
+   {
+      "Description" : "Blocks evasion modifiers. Allows user's Psychic-type moves to hit Dark-types.",
+      "Name" : "Miracle Eye",
+      "PageLocation" : "/bw/moves/miracle_eye",
+      "Type" : 10
+   },
+   {
+      "Description" : "If hit by a special attack, returns double the damage.",
+      "Name" : "Mirror Coat",
+      "PageLocation" : "/bw/moves/mirror_coat",
+      "Type" : 10
+   },
+   {
+      "Description" : "50% chance to lower target's Special Attack by 1 stage.",
+      "Name" : "Mist Ball",
+      "PageLocation" : "/bw/moves/mist_ball",
+      "Type" : 10
+   },
+   {
+      "Description" : "Averages Attack and Special Attack with the target.",
+      "Name" : "Power Split",
+      "PageLocation" : "/bw/moves/power_split",
+      "Type" : 10
+   },
+   {
+      "Description" : "Switches Attack and Special Attack boosts with the target.",
+      "Name" : "Power Swap",
+      "PageLocation" : "/bw/moves/power_swap",
+      "Type" : 10
+   },
+   {
+      "Description" : "Switches Attack and Defense stats.",
+      "Name" : "Power Trick",
+      "PageLocation" : "/bw/moves/power_trick",
+      "Type" : 10
+   },
+   {
+      "Description" : "10% chance to confuse the target.",
+      "Name" : "Psybeam",
+      "PageLocation" : "/bw/moves/psybeam",
+      "Type" : 10
+   },
+   {
+      "Description" : "10% chance to lower target's Special Defense by 1 stage.",
+      "Name" : "Psychic",
+      "PageLocation" : "/bw/moves/psychic",
+      "Type" : 10
+   },
+   {
+      "Description" : "Lowers user's Special Attack by 2 stages.",
+      "Name" : "Psycho Boost",
+      "PageLocation" : "/bw/moves/psycho_boost",
+      "Type" : 10
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Psycho Cut",
+      "PageLocation" : "/bw/moves/psycho_cut",
+      "Type" : 10
+   },
+   {
+      "Description" : "Transfers status ailments to the target.",
+      "Name" : "Psycho Shift",
+      "PageLocation" : "/bw/moves/psycho_shift",
+      "Type" : 10
+   },
+   {
+      "Description" : "Damage is based on the target's Defense stat.",
+      "Name" : "Psyshock",
+      "PageLocation" : "/bw/moves/psyshock",
+      "Type" : 10
+   },
+   {
+      "Description" : "Damage is based on the target's Defense stat.",
+      "Name" : "Psystrike",
+      "PageLocation" : "/bw/moves/psystrike",
+      "Type" : 10
+   },
+   {
+      "Description" : "Does random damage equal to .5x-1.5x the user's level.",
+      "Name" : "Psywave",
+      "PageLocation" : "/bw/moves/psywave",
+      "Type" : 10
+   },
+   {
+      "Description" : "Lowers damage from physical attacks to the user's team for 5 turns.",
+      "Name" : "Reflect",
+      "PageLocation" : "/bw/moves/reflect",
+      "Type" : 10
+   },
+   {
+      "Description" : "The user goes to sleep for two turns and restores all HP.",
+      "Name" : "Rest",
+      "PageLocation" : "/bw/moves/rest",
+      "Type" : 10
+   },
+   {
+      "Description" : "Copies the foe's ability and overwrites the user's ability.",
+      "Name" : "Role Play",
+      "PageLocation" : "/bw/moves/role_play",
+      "Type" : 10
+   },
+   {
+      "Description" : "The user and the target trade abilities.",
+      "Name" : "Skill Swap",
+      "PageLocation" : "/bw/moves/skill_swap",
+      "Type" : 10
+   },
+   {
+      "Description" : "Varies in power depending on number of boosts accumulated by user.",
+      "Name" : "Stored Power",
+      "PageLocation" : "/bw/moves/stored_power",
+      "Type" : 10
+   },
+   {
+      "Description" : "Only damages targets of the same type as the user.",
+      "Name" : "Synchronoise",
+      "PageLocation" : "/bw/moves/synchronoise",
+      "Type" : 10
+   },
+   {
+      "Description" : "Lasts 3 turns and makes all moves hit the target.  Makes target immune to Ground-type moves.",
+      "Name" : "Telekinesis",
+      "PageLocation" : "/bw/moves/telekinesis",
+      "Type" : 10
+   },
+   {
+      "Description" : "Flee from wild Pokemon battles.",
+      "Name" : "Teleport",
+      "PageLocation" : "/bw/moves/teleport",
+      "Type" : 10
+   },
+   {
+      "Description" : "Switches items with the target.",
+      "Name" : "Trick",
+      "PageLocation" : "/bw/moves/trick",
+      "Type" : 10
+   },
+   {
+      "Description" : "Slower Pokemon move first for 5 turns.",
+      "Name" : "Trick Room",
+      "PageLocation" : "/bw/moves/trick_room",
+      "Type" : 10
+   },
+   {
+      "Description" : "Swaps Defense and Special Defense of all Pokemon.",
+      "Name" : "Wonder Room",
+      "PageLocation" : "/bw/moves/wonder_room",
+      "Type" : 10
+   },
+   {
+      "Description" : "20% chance to flinch the target.",
+      "Name" : "Zen Headbutt",
+      "PageLocation" : "/bw/moves/zen_headbutt",
+      "Type" : 10
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Attack Order",
+      "PageLocation" : "/bw/moves/attack_order",
+      "Type" : 11
+   },
+   {
+      "Description" : "User steals the effect of the target's held Berry.",
+      "Name" : "Bug Bite",
+      "PageLocation" : "/bw/moves/bug_bite",
+      "Type" : 11
+   },
+   {
+      "Description" : "10% chance to lower target's Special Defense by 1 stage.",
+      "Name" : "Bug Buzz",
+      "PageLocation" : "/bw/moves/bug_buzz",
+      "Type" : 11
+   },
+   {
+      "Description" : "Boosts user's Defense and Special Defense by 1 stage.",
+      "Name" : "Defend Order",
+      "PageLocation" : "/bw/moves/defend_order",
+      "Type" : 11
+   },
+   {
+      "Description" : "Power doubles with each hit.",
+      "Name" : "Fury Cutter",
+      "PageLocation" : "/bw/moves/fury_cutter",
+      "Type" : 11
+   },
+   {
+      "Description" : "Heals the user by 50% its max HP.",
+      "Name" : "Heal Order",
+      "PageLocation" : "/bw/moves/heal_order",
+      "Type" : 11
+   },
+   {
+      "Description" : "Leeches 50% of the damage dealt.",
+      "Name" : "Leech Life",
+      "PageLocation" : "/bw/moves/leech_life",
+      "Type" : 11
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Megahorn",
+      "PageLocation" : "/bw/moves/megahorn",
+      "Type" : 11
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "Pin Missile",
+      "PageLocation" : "/bw/moves/pin_missile",
+      "Type" : 11
+   },
+   {
+      "Description" : "Boosts the user's Special Attack, Special Defense, and Speed by 1 stage.",
+      "Name" : "Quiver Dance",
+      "PageLocation" : "/bw/moves/quiver_dance",
+      "Type" : 11
+   },
+   {
+      "Description" : "All moves target the user.",
+      "Name" : "Rage Powder",
+      "PageLocation" : "/bw/moves/rage_powder",
+      "Type" : 11
+   },
+   {
+      "Description" : "10% chance to confuse the target.",
+      "Name" : "Signal Beam",
+      "PageLocation" : "/bw/moves/signal_beam",
+      "Type" : 11
+   },
+   {
+      "Description" : "10% chance to boost all of the user's stats by 1 stage.",
+      "Name" : "Silver Wind",
+      "PageLocation" : "/bw/moves/silver_wind",
+      "Type" : 11
+   },
+   {
+      "Description" : "The target cannot switch out.",
+      "Name" : "Spider Web",
+      "PageLocation" : "/bw/moves/spider_web",
+      "Type" : 11
+   },
+   {
+      "Description" : "Has a 30% chance to flinch the target.",
+      "Name" : "Steamroller",
+      "PageLocation" : "/bw/moves/steamroller",
+      "Type" : 11
+   },
+   {
+      "Description" : "Lowers target's Speed by 1 stage.",
+      "Name" : "String Shot",
+      "PageLocation" : "/bw/moves/string_shot",
+      "Type" : 11
+   },
+   {
+      "Description" : "Lowers target's Special Attack by 1 stage.",
+      "Name" : "Struggle Bug",
+      "PageLocation" : "/bw/moves/struggle_bug",
+      "Type" : 11
+   },
+   {
+      "Description" : "Boosts user's Special Attack by 3 stages.",
+      "Name" : "Tail Glow",
+      "PageLocation" : "/bw/moves/tail_glow",
+      "Type" : 11
+   },
+   {
+      "Description" : "Hits 2 times with a 20% chance to poison the target each time.",
+      "Name" : "Twineedle",
+      "PageLocation" : "/bw/moves/twineedle",
+      "Type" : 11
+   },
+   {
+      "Description" : "Forces user to switch.",
+      "Name" : "U-turn",
+      "PageLocation" : "/bw/moves/u-turn",
+      "Type" : 11
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "X-Scissor",
+      "PageLocation" : "/bw/moves/x-scissor",
+      "Type" : 11
+   },
+   {
+      "Description" : "10% chance to boost all of the user's stats by 1 stage.",
+      "Name" : "AncientPower",
+      "PageLocation" : "/bw/moves/ancientpower",
+      "Type" : 12
+   },
+   {
+      "Description" : "Has 50% recoil.",
+      "Name" : "Head Smash",
+      "PageLocation" : "/bw/moves/head_smash",
+      "Type" : 12
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Power Gem",
+      "PageLocation" : "/bw/moves/power_gem",
+      "Type" : 12
+   },
+   {
+      "Description" : "Hits 2-5 times in one turn.",
+      "Name" : "Rock Blast",
+      "PageLocation" : "/bw/moves/rock_blast",
+      "Type" : 12
+   },
+   {
+      "Description" : "Boosts user's Speed by 2 stages.",
+      "Name" : "Rock Polish",
+      "PageLocation" : "/bw/moves/rock_polish",
+      "Type" : 12
+   },
+   {
+      "Description" : "30% chance to flinch the target.",
+      "Name" : "Rock Slide",
+      "PageLocation" : "/bw/moves/rock_slide",
+      "Type" : 12
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Rock Throw",
+      "PageLocation" : "/bw/moves/rock_throw",
+      "Type" : 12
+   },
+   {
+      "Description" : "Lowers target's Speed by 1 stage.",
+      "Name" : "Rock Tomb",
+      "PageLocation" : "/bw/moves/rock_tomb",
+      "Type" : 12
+   },
+   {
+      "Description" : "User cannot move next turn.",
+      "Name" : "Rock Wrecker",
+      "PageLocation" : "/bw/moves/rock_wrecker",
+      "Type" : 12
+   },
+   {
+      "Description" : "Doubles in power with each hit. Repeats for five turns.",
+      "Name" : "Rollout",
+      "PageLocation" : "/bw/moves/rollout",
+      "Type" : 12
+   },
+   {
+      "Description" : "Summons a sandstorm for five turns.",
+      "Name" : "Sandstorm",
+      "PageLocation" : "/bw/moves/sandstorm",
+      "Type" : 12
+   },
+   {
+      "Description" : "Can hit if target is using Fly, Bounce, or Sky Drop. Ends target's airborne moves and its benefits from Flying type or Levitate.",
+      "Name" : "Smack Down",
+      "PageLocation" : "/bw/moves/smack_down",
+      "Type" : 12
+   },
+   {
+      "Description" : "Causes damage to the enemy whenever they switch.",
+      "Name" : "Stealth Rock",
+      "PageLocation" : "/bw/moves/stealth_rock",
+      "Type" : 12
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Stone Edge",
+      "PageLocation" : "/bw/moves/stone_edge",
+      "Type" : 12
+   },
+   {
+      "Description" : "Protects user and allies from multi-target attacks.",
+      "Name" : "Wide Guard",
+      "PageLocation" : "/bw/moves/wide_guard",
+      "Type" : 12
+   },
+   {
+      "Description" : "30% chance to flinch the target.",
+      "Name" : "Astonish",
+      "PageLocation" : "/bw/moves/astonish",
+      "Type" : 13
+   },
+   {
+      "Description" : "Confuses the target.",
+      "Name" : "Confuse Ray",
+      "PageLocation" : "/bw/moves/confuse_ray",
+      "Type" : 13
+   },
+   {
+      "Description" : "Deals 1/4 damage per turn at the cost of half the user's max HP if the user is a Ghost-type Pokemon. Boosts user's Attack and Defense and lowers Speed by 1 stage otherwise.",
+      "Name" : "Curse",
+      "PageLocation" : "/bw/moves/curse",
+      "Type" : 13
+   },
+   {
+      "Description" : "If the user faints, the foe faints.",
+      "Name" : "Destiny Bond",
+      "PageLocation" : "/bw/moves/destiny_bond",
+      "Type" : 13
+   },
+   {
+      "Description" : "If the user faints, the target's attack loses all PP.",
+      "Name" : "Grudge",
+      "PageLocation" : "/bw/moves/grudge",
+      "Type" : 13
+   },
+   {
+      "Description" : "Base Power doubles if target has a status ailment.",
+      "Name" : "Hex",
+      "PageLocation" : "/bw/moves/hex",
+      "Type" : 13
+   },
+   {
+      "Description" : "30% chance to paralyze the target.",
+      "Name" : "Lick",
+      "PageLocation" : "/bw/moves/lick",
+      "Type" : 13
+   },
+   {
+      "Description" : "Does damage equal to the user's level.",
+      "Name" : "Night Shade",
+      "PageLocation" : "/bw/moves/night_shade",
+      "Type" : 13
+   },
+   {
+      "Description" : "Cuts 1/4 of the sleeping target's max HP per turn.",
+      "Name" : "Nightmare",
+      "PageLocation" : "/bw/moves/nightmare",
+      "Type" : 13
+   },
+   {
+      "Description" : "10% chance to boost all of the user's stats by 1 stage.",
+      "Name" : "Ominous Wind",
+      "PageLocation" : "/bw/moves/ominous_wind",
+      "Type" : 13
+   },
+   {
+      "Description" : "20% chance to lower target's Special Defense by 1 stage.",
+      "Name" : "Shadow Ball",
+      "PageLocation" : "/bw/moves/shadow_ball",
+      "Type" : 13
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Shadow Claw",
+      "PageLocation" : "/bw/moves/shadow_claw",
+      "Type" : 13
+   },
+   {
+      "Description" : "User becomes invulnerable, then attacks the next turn. Nullifies Detect and Protect.",
+      "Name" : "Shadow Force",
+      "PageLocation" : "/bw/moves/shadow_force",
+      "Type" : 13
+   },
+   {
+      "Description" : "Ignores evasion modifiers.",
+      "Name" : "Shadow Punch",
+      "PageLocation" : "/bw/moves/shadow_punch",
+      "Type" : 13
+   },
+   {
+      "Description" : "The user always attacks first.",
+      "Name" : "Shadow Sneak",
+      "PageLocation" : "/bw/moves/shadow_sneak",
+      "Type" : 13
+   },
+   {
+      "Description" : "Lowers the PP of the move used last by 4.",
+      "Name" : "Spite",
+      "PageLocation" : "/bw/moves/spite",
+      "Type" : 13
+   },
+   {
+      "Description" : "Lowers user's Special Attack by 2 stages.",
+      "Name" : "Draco Meteor",
+      "PageLocation" : "/bw/moves/draco_meteor",
+      "Type" : 14
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Dragon Claw",
+      "PageLocation" : "/bw/moves/dragon_claw",
+      "Type" : 14
+   },
+   {
+      "Description" : "Boosts user's Attack and Speed by 1 stage.",
+      "Name" : "Dragon Dance",
+      "PageLocation" : "/bw/moves/dragon_dance",
+      "Type" : 14
+   },
+   {
+      "Description" : "No additional effect.",
+      "Name" : "Dragon Pulse",
+      "PageLocation" : "/bw/moves/dragon_pulse",
+      "Type" : 14
+   },
+   {
+      "Description" : "Always does 40 HP damage.",
+      "Name" : "Dragon Rage",
+      "PageLocation" : "/bw/moves/dragon_rage",
+      "Type" : 14
+   },
+   {
+      "Description" : "20% chance to flinch the target.",
+      "Name" : "Dragon Rush",
+      "PageLocation" : "/bw/moves/dragon_rush",
+      "Type" : 14
+   },
+   {
+      "Description" : "Forces the target to switch to a random Pokemon.",
+      "Name" : "Dragon Tail",
+      "PageLocation" : "/bw/moves/dragon_tail",
+      "Type" : 14
+   },
+   {
+      "Description" : "30% chance to paralyze opponent.",
+      "Name" : "DragonBreath",
+      "PageLocation" : "/bw/moves/dragonbreath",
+      "Type" : 14
+   },
+   {
+      "Description" : "Hits 2 times in one turn.",
+      "Name" : "Dual Chop",
+      "PageLocation" : "/bw/moves/dual_chop",
+      "Type" : 14
+   },
+   {
+      "Description" : "Lasts 2-3 turns and will confuse the user afterward.",
+      "Name" : "Outrage",
+      "PageLocation" : "/bw/moves/outrage",
+      "Type" : 14
+   },
+   {
+      "Description" : "User cannot move next turn.",
+      "Name" : "Roar of Time",
+      "PageLocation" : "/bw/moves/roar_of_time",
+      "Type" : 14
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Spacial Rend",
+      "PageLocation" : "/bw/moves/spacial_rend",
+      "Type" : 14
+   },
+   {
+      "Description" : "20% chance to flinch the target.",
+      "Name" : "Twister",
+      "PageLocation" : "/bw/moves/twister",
+      "Type" : 14
+   },
+   {
+      "Description" : "Base Power doubles if the target takes damage in the same turn, before the attack hits.",
+      "Name" : "Assurance",
+      "PageLocation" : "/bw/moves/assurance",
+      "Type" : 15
+   },
+   {
+      "Description" : "All healthy Pokemon aid in damaging the target.",
+      "Name" : "Beat Up",
+      "PageLocation" : "/bw/moves/beat_up",
+      "Type" : 15
+   },
+   {
+      "Description" : "30% chance to flinch the target.",
+      "Name" : "Bite",
+      "PageLocation" : "/bw/moves/bite",
+      "Type" : 15
+   },
+   {
+      "Description" : "20% chance to lower target's Defense by 1 stage.",
+      "Name" : "Crunch",
+      "PageLocation" : "/bw/moves/crunch",
+      "Type" : 15
+   },
+   {
+      "Description" : "20% chance to flinch the target.",
+      "Name" : "Dark Pulse",
+      "PageLocation" : "/bw/moves/dark_pulse",
+      "Type" : 15
+   },
+   {
+      "Description" : "Puts the target to sleep.",
+      "Name" : "Dark Void",
+      "PageLocation" : "/bw/moves/dark_void",
+      "Type" : 15
+   },
+   {
+      "Description" : "Item use is prevented for five turns.",
+      "Name" : "Embargo",
+      "PageLocation" : "/bw/moves/embargo",
+      "Type" : 15
+   },
+   {
+      "Description" : "Ignores evasion modifiers.",
+      "Name" : "Faint Attack",
+      "PageLocation" : "/bw/moves/faint_attack",
+      "Type" : 15
+   },
+   {
+      "Description" : "Lowers target's Special Defense by 2 stages.",
+      "Name" : "Fake Tears",
+      "PageLocation" : "/bw/moves/fake_tears",
+      "Type" : 15
+   },
+   {
+      "Description" : "Confuses the target. Boosts the target's Special Attack by 1 stage.",
+      "Name" : "Flatter",
+      "PageLocation" : "/bw/moves/flatter",
+      "Type" : 15
+   },
+   {
+      "Description" : "Throws the user's hold item at the foe. Power and effect depend on the item.",
+      "Name" : "Fling",
+      "PageLocation" : "/bw/moves/fling",
+      "Type" : 15
+   },
+   {
+      "Description" : "Uses the target's Attack stat in damage calculation.",
+      "Name" : "Foul Play",
+      "PageLocation" : "/bw/moves/foul_play",
+      "Type" : 15
+   },
+   {
+      "Description" : "Boosts Attack and accuracy one stage.",
+      "Name" : "Hone Claws",
+      "PageLocation" : "/bw/moves/hone_claws",
+      "Type" : 15
+   },
+   {
+      "Description" : "Removes the target's held item.",
+      "Name" : "Knock Off",
+      "PageLocation" : "/bw/moves/knock_off",
+      "Type" : 15
+   },
+   {
+      "Description" : "User faints. Lowers target's Attack and Special Attack by 2 stages.",
+      "Name" : "Memento",
+      "PageLocation" : "/bw/moves/memento",
+      "Type" : 15
+   },
+   {
+      "Description" : "Boosts user's Special Attack by 2 stages.",
+      "Name" : "Nasty Plot",
+      "PageLocation" : "/bw/moves/nasty_plot",
+      "Type" : 15
+   },
+   {
+      "Description" : "40% chance to lower target's accuracy by 1 stage.",
+      "Name" : "Night Daze",
+      "PageLocation" : "/bw/moves/night_daze",
+      "Type" : 15
+   },
+   {
+      "Description" : "Has a high critical hit rate.",
+      "Name" : "Night Slash",
+      "PageLocation" : "/bw/moves/night_slash",
+      "Type" : 15
+   },
+   {
+      "Description" : "Base Power doubles if the foe has taken its turn.",
+      "Name" : "Payback",
+      "PageLocation" : "/bw/moves/payback",
+      "Type" : 15
+   },
+   {
+      "Description" : "Does more damage to targets with stat boosts.",
+      "Name" : "Punishment",
+      "PageLocation" : "/bw/moves/punishment",
+      "Type" : 15
+   },
+   {
+      "Description" : "Doubles Base Power if target is switching.",
+      "Name" : "Pursuit",
+      "PageLocation" : "/bw/moves/pursuit",
+      "Type" : 15
+   },
+   {
+      "Description" : "Forces the target to move last.",
+      "Name" : "Quash",
+      "PageLocation" : "/bw/moves/quash",
+      "Type" : 15
+   },
+   {
+      "Description" : "Lowers target's Special Attack by 1 stage.",
+      "Name" : "Snarl",
+      "PageLocation" : "/bw/moves/snarl",
+      "Type" : 15
+   },
+   {
+      "Description" : "If certain moves are used, the user of Snatch uses the moves instead.",
+      "Name" : "Snatch",
+      "PageLocation" : "/bw/moves/snatch",
+      "Type" : 15
+   },
+   {
+      "Description" : "The user always moves first. Will only work if the foe attacks on the same turn.",
+      "Name" : "Sucker Punch",
+      "PageLocation" : "/bw/moves/sucker_punch",
+      "Type" : 15
+   },
+   {
+      "Description" : "Switches items with the target.",
+      "Name" : "Switcheroo",
+      "PageLocation" : "/bw/moves/switcheroo",
+      "Type" : 15
+   },
+   {
+      "Description" : "Lasts 3 turns and the target can only use attacking moves.",
+      "Name" : "Taunt",
+      "PageLocation" : "/bw/moves/taunt",
+      "Type" : 15
+   },
+   {
+      "Description" : "Steals the target's held item.",
+      "Name" : "Thief",
+      "PageLocation" : "/bw/moves/thief",
+      "Type" : 15
+   },
+   {
+      "Description" : "Forces the target to change moves.",
+      "Name" : "Torment",
+      "PageLocation" : "/bw/moves/torment",
+      "Type" : 15
+   },
+   {
+      "Description" : "Boosts user's Speed by 2 stages. Reduces user's weight.",
+      "Name" : "Autotomize",
+      "PageLocation" : "/bw/moves/autotomize",
+      "Type" : 16
+   },
+   {
+      "Description" : "The user always attacks first.",
+      "Name" : "Bullet Punch",
+      "PageLocation" : "/bw/moves/bullet_punch",
+      "Type" : 16
+   },
+   {
+      "Description" : "Hits two turns after being used.",
+      "Name" : "Doom Desire",
+      "PageLocation" : "/bw/moves/doom_desire",
+      "Type" : 16
+   },
+   {
+      "Description" : "10% chance to lower target's Special Defense by 1 stage.",
+      "Name" : "Flash Cannon",
+      "PageLocation" : "/bw/moves/flash_cannon",
+      "Type" : 16
+   },
+   {
+      "Description" : "Hits 2 times in one turn.",
+      "Name" : "Gear Grind",
+      "PageLocation" : "/bw/moves/gear_grind",
+      "Type" : 16
+   },
+   {
+      "Description" : "Does damage based on both the user's and the target's Speed.",
+      "Name" : "Gyro Ball",
+      "PageLocation" : "/bw/moves/gyro_ball",
+      "Type" : 16
+   },
+   {
+      "Description" : "Deals damage based on both the user's and the target's weight.",
+      "Name" : "Heavy Slam",
+      "PageLocation" : "/bw/moves/heavy_slam",
+      "Type" : 16
+   },
+   {
+      "Description" : "Boosts user's Defense 2 stages.",
+      "Name" : "Iron Defense",
+      "PageLocation" : "/bw/moves/iron_defense",
+      "Type" : 16
+   },
+   {
+      "Description" : "30% chance to flinch the target.",
+      "Name" : "Iron Head",
+      "PageLocation" : "/bw/moves/iron_head",
+      "Type" : 16
+   },
+   {
+      "Description" : "30% chance to lower target's Defense by 1 stage.",
+      "Name" : "Iron Tail",
+      "PageLocation" : "/bw/moves/iron_tail",
+      "Type" : 16
+   },
+   {
+      "Description" : "Ignores evasion modifiers.",
+      "Name" : "Magnet Bomb",
+      "PageLocation" : "/bw/moves/magnet_bomb",
+      "Type" : 16
+   },
+   {
+      "Description" : "Counters foe's attack with 1.5x damage.",
+      "Name" : "Metal Burst",
+      "PageLocation" : "/bw/moves/metal_burst",
+      "Type" : 16
+   },
+   {
+      "Description" : "10% chance to boosts user's Attack by 1 stage.",
+      "Name" : "Metal Claw",
+      "PageLocation" : "/bw/moves/metal_claw",
+      "Type" : 16
+   },
+   {
+      "Description" : "Lowers target's Special Defense by 2 stages.",
+      "Name" : "Metal Sound",
+      "PageLocation" : "/bw/moves/metal_sound",
+      "Type" : 16
+   },
+   {
+      "Description" : "20% chance to boost user's Attack by 1 stage.",
+      "Name" : "Meteor Mash",
+      "PageLocation" : "/bw/moves/meteor_mash",
+      "Type" : 16
+   },
+   {
+      "Description" : "30% chance to lower target's accuracy by 1 stage.",
+      "Name" : "Mirror Shot",
+      "PageLocation" : "/bw/moves/mirror_shot",
+      "Type" : 16
+   },
+   {
+      "Description" : "Boosts Speed by 2 stages and Attack by 1 stage.",
+      "Name" : "Shift Gear",
+      "PageLocation" : "/bw/moves/shift_gear",
+      "Type" : 16
+   },
+   {
+      "Description" : "10% chance to raise the user's Defense by 1 stage.",
+      "Name" : "Steel Wing",
+      "PageLocation" : "/bw/moves/steel_wing",
+      "Type" : 16
+   }
+]
