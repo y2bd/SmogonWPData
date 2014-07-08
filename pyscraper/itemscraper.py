@@ -17,7 +17,7 @@ def to_schmogon_itemdata(item):
             'Name' : item['name']}
 
 def minimize(pokedata):
-    return {'Description' : pokedata['Description'],
+    return {'Description' : pokedata['Description'][0]['Content'],
             'Name' : pokedata['Name'],
             'PageLocation' : ''}
 

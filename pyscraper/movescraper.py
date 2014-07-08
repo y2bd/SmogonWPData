@@ -39,7 +39,7 @@ def type_to_number(type_):
             'steel', 'fairy'].index(type_)
 
 def minimize(pokedata):
-    return {'Description' : pokedata['Description'],
+    return {'Description' : pokedata['Description'][0]['Content'],
             'Name' : pokedata['Name'],
             'PageLocation' : '',
             'Type' : type_to_number(pokedata['Stats']['Type'])}
