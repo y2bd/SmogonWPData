@@ -49,8 +49,6 @@ def fetch_all_pokemon():
 
     all_pokemon = map(fetch_pokemon, poke_aliases)
 
-    pool.close()
-
     return all_pokemon
 
 def fetch_all_pokemon_threaded():
