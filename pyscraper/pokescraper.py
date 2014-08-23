@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from multiprocessing import Pool
 import multiprocessing
 import json
+import sys
 
 def get_pokelist():
     url = 'http://www.smogon.com/dex/api/query'
@@ -121,6 +122,10 @@ def get_stats(alt):
 
 def tier_to_number(tier):
     tier = tier.upper()
+
+    if tier == 'BL3': tier = 'RU'
+    if tier == 'UNRELEASED': tier = 'LIMBO'
+
     return ['UBER', 'OU', 'BL', 'UU', 'BL2', 'RU', 'NU', 'LC', 'LIMBO', 'NFE'].index(tier)
 
 def type_to_number(type_):
@@ -188,6 +193,8 @@ def extract_moveset_description(description):
     return [p.text for p in soup.descendants if p.name in ['p', 'li']]
 
 def minimize(pokedata):
+    print >> sys.stderr, '<{0}>{1}</{0}>'.format('Item', pokedata['Name'])
+
     return {'Abilities' : pokedata['Abilities'],
             'BaseStats' : pokedata['BaseStats'],
             'Name' : pokedata['Name'],
@@ -204,6 +211,3 @@ if __name__ == '__main__':
     pj.write(json.dumps(map(minimize, pokedata)))
     pdj.close()
     pj.close()
-
-
-
